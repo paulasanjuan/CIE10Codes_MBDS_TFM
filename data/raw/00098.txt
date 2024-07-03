@@ -1,0 +1,13 @@
+### Clinical Note:
+Pt reports severl weeks of chronic fatigue and episodes of chest pain, which occasionally occurs during breathing. Additionally, pt experiencing difficulty with speech, showing signs of hoarseness. Physical exam also revealed symptoms of facial weakness and gait disturbances. Pt mentioned increased involuntary muscle movements and tingling sensations in extremities. Ongoing management includes PT and OT sessions.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic fatigue","R53.82"
+"chest pain...during breathing","R07.1"
+"difficulty with speech","R47.8"
+"hoarseness","R49.0"
+"facial weakness","R29.810"
+"gait disturbances","R26.0"
+"involuntary muscle movements","R25.8"
+"tingling sensations in extremities","R20.2"

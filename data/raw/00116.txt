@@ -1,0 +1,11 @@
+### Clinical Note:
+Pt complains of frequent muscle weakness (feeling more tired in the mornings) and insomnia. She also notes issues with speech, often stuttering or having difficulty finding words, which she describes as dysarthria. Her husband reports that she has been having trouble with balance and coordination, particularly when walking. During the exam, fasciculations were noted in the upper limbs. She denies chest pain or any significant SOB. Also mentioned occasional paresthesias in hands and feet, but no recent changes in urinary continence.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"insomnia","G47.0"
+"difficulty finding words, dysarthria","R47.1"
+"trouble with balance and coordination","R27.8"
+"fasciculations were noted","R25.3"
+"paresthesias in hands and feet","R20.2"

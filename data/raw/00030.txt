@@ -1,0 +1,15 @@
+### Clinical Note:
+
+Pt. presents w/ severe muscle weakness, primarily in the legs, making walking difficult. Complaints of frequent fasciculations, and issues with maintaining balance. Reports insomnia, often struggling to fall asleep due to muscle cramps. Some trouble swallowing both liquids and solids, suggests possible dysphagia. Noticed increased episodes of shortness of breath, esp. at night. Also experiencing chronic fatigue and occasional dizziness.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness, primarily in the legs","M62.81"
+"fasciculations","R25.3"
+"maintaining balance","R26.0"
+"insomnia","G47.0"
+"muscle cramps","R25.2"
+"trouble swallowing...dysphagia","R13.1"
+"shortness of breath","R06.00"
+"chronic fatigue","R53.82"
+"dizziness","R42"

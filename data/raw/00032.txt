@@ -1,0 +1,14 @@
+### Clinical Note:
+Pt reports persistent shortness of breath and chronic fatigue over the last few weeks. Complains of facial paralysis and difficulties with speech, often experiencing dysarthria. There's a history of muscle weakness, particularly in the limbs. The pt also notes episodes of dizziness and orthostatic hypotension. Recent checkup showed abnormal reflexes. No significant issues with urinary incontinence but does experience paresthesias in extremities.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"chronic fatigue","R53.82"
+"facial paralysis","G51.0"
+"difficulties with speech, dysarthria","R47.1"
+"muscle weakness","M62.8"
+"dizziness and orthostatic hypotension","R42"
+"orthostatic hypotension","I95.1"
+"abnormal reflexes","R29.2"
+"paresthesias in extremities","R20.2"

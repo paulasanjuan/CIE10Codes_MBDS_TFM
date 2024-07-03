@@ -1,0 +1,11 @@
+### Clinical Note:
+The pt. reports increasing muscle weakness and frequent cramps, especially at night. There's also a noted difficulty in swallowing, with frequent choking on liquids. Speech has become slurred, making communication difficult, and there's a presence of involuntary facial twitching. Orthostatic hypotension is also a concern, causing dizziness upon standing. No significant history of anxiety or depression. Medication includes baclofen and gabapentin for symptom management.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"increasing muscle weakness","M62.81"
+"frequent cramps","R25.2"
+"difficulty in swallowing","R13.10"
+"speech has become slurred","R47.81"
+"involuntary facial twitching","R25.3"
+"Orthostatic hypotension","I95.1"

@@ -1,0 +1,14 @@
+### Clinical Note:
+Patient c/o cronic fatigue and difficulty speaking. Noticed increasing shortness of breath and unexplained muscle spasms in the legs. There has been a history of unsteady gait, often stumbling over feet. Last visit, pt mentioned episodes of dizziness and occasional facial weakness. Speech fluency has decreased, making communication difficult. Pt also reports occasional urinary incontinence. No signs of panic disorder or orthostatic hypotension.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"cronic fatigue","R53.83"
+"difficulty speaking","R47.81"
+"shortness of breath","R06.0"
+"muscle spasms","R25.2"
+"unsteady gait","R26.0"
+"dizziness","R42"
+"facial weakness","R29.810"
+"Speech fluency has decreased","R47.82"
+"urinary incontinence","R32"

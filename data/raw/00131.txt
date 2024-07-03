@@ -1,0 +1,15 @@
+### Clinical Note:
+Pt complains of frequent cramping and spasms in the legs, with noted muscle fasciculations. Also reports experiencing generalized weakness and fatigue, impacting daily activities. Additionally, pt has been feeling dizzy and has had occasional episodes of syncope. Complains of trouble speaking and mild dysphagia, mostly with liquids. Pt also mentions having increased anxiety and trouble sleeping. Recent tests show chronic respiratory failure and orthostatic hypotension. Follow up needed to reassess current management plan.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"frequent cramping and spasms in the legs","R25.2"
+"muscle fasciculations","R25.3"
+"generalized weakness","M62.81"
+"fatigue","R53.83"
+"dizzy","R42"
+"episodes of syncope","R42"
+"trouble speaking","R47.81"
+"mild dysphagia","R13.10"
+"chronic respiratory failure","J96.1"
+"orthostatic hypotension","I95.1"

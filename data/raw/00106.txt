@@ -1,0 +1,13 @@
+### Clinical Note:
+Pt reports increesed difficulty with speach and hoarsness over the last few weeks. He also notes muscle twitching and weak grip strength. Sleep has been poor due to shortness of breath and ocasional chest pain on breathing. Continues to experience dizziness and feels lightheaded when standing up quickly. Some incontinence has also been observed. No major changes in mood or anxiety levels. Currently taking medication for chronic respiratory failure.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"difficulty with speach and hoarsness","R49.0"
+"muscle twitching","R25.3"
+"weak grip strength","M62.81"
+"shortness of breath","R06.00"
+"chest pain on breathing","R07.1"
+"dizziness and feels lightheaded","R42"
+"incontinence","R32"
+"chronic respiratory failure","J96.1"

@@ -1,0 +1,15 @@
+### Clinical Note:
+
+Pt c/o difficulty in breathing and severe shortness of breath. Hx of chronic fatigue, often feeling asthenic. Reports muscle weakness, esp in lower limbs, and occasional muscle cramps. Noticed increased difficulty in swallowing both liquids and solids, which led to wt loss. Exhibits involuntary muscle twitching (fasciculation) in arms and legs. Also, reports episodes of dizziness. Currently using a wheelchair for mobility. No hx of chest pain or cardiac issues. Poor sleep quality, often wakes up at night.
+
+### ICD-10 Coding Table:
+
+"Text","ICD10"
+"difficulty in breathing and severe shortness of breath","R06.00"
+"chronic fatigue, often feeling asthenic","R53.82"
+"muscle weakness","M62.81"
+"muscle cramps","R25.2"
+"difficulty in swallowing both liquids and solids","R13.10"
+"involuntary muscle twitching (fasciculation)","R25.3"
+"episodes of dizziness","R42"
+"using a wheelchair for mobility","Z99.3"

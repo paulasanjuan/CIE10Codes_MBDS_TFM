@@ -1,0 +1,10 @@
+### Clinical Note:
+Patient complains of severe chest pain and shortness of breath (SOB) which worsens at night. Family reports increasing difficulty in swallowing (dysphagia) and frequent falls. There's also mention of muscle twitching and cramps, particularly in the legs. Anxiety symptoms are also present, and the patient is very stressed about their condition. Further, the patient has been experiencing orthostatic hypotension. Regular use of a wheelchair for mobility. Currently prescribed antidepressants for depressive symptoms and medication for sleep disturbances.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath (SOB)","R06.00"
+"difficulty in swallowing (dysphagia)","R13.1"
+"muscle twitching and cramps","R25.2"
+"orthostatic hypotension","I95.1"
+"use of a wheelchair","Z99.3"

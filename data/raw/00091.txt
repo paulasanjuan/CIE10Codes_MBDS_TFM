@@ -1,0 +1,15 @@
+### Clinical Note:
+Pt. presents w/ muscle weakness & cramping, most notably in the legs. Reports trouble sleeping (insomnia) and recent episodes of dizziness. Also complains of facial weakness, making it hard to smile. No hx of resp. issues but experiences occasional SOB. Pt. has mixed incontinence issues and has noted some paraesthesia in hands and feet. Needs assist w/ mobility and uses a w/c for longer distances. Pt. states feeling stressed due to their condition, and displays signs of depression and anxiety.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"trouble sleeping (insomnia)","G47.0"
+"dizziness","R42"
+"facial weakness","R29.810"
+"occasional SOB","R06.02"
+"mixed incontinence","N39.46"
+"paraesthesia in hands and feet","R20.2"
+"Needs assist w/ mobility and uses a w/c for longer distances","Z74.0"
+"feeling stressed","R45.7"
+"signs of depression and anxiety","F41.9"

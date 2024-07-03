@@ -1,0 +1,15 @@
+### Clinical Note:
+Pt presented today c/o severe difficulty swallowing, mostly w/ liquids and some solids. Noted increased muscle twitches and facial weakness. Reports insomnia and occasional dizziness. During exam, speech was slurred and pt struggled with nystagmus. Gait was unsteady, showing signs of ataxia. Also mentioned chronic fatigue and episodes of anxiety. No reported urinary incontinence or chest pain. Currently on multiple medications to manage symptoms, including some for sleep and anxiety.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"difficulty swallowing, mostly w/ liquids and some solids","R13.10"
+"increased muscle twitches","R25.3"
+"facial weakness","R29.810"
+"insomnia","G47.0"
+"dizziness","R42"
+"speech was slurred","R47.81"
+"nystagmus","H55"
+"gait was unsteady, showing signs of ataxia","R26.0"
+"chronic fatigue","R53.82"
+"episodes of anxiety","F41.9"

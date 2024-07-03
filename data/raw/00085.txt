@@ -1,0 +1,13 @@
+### Clinical Note:
+Pt complains of chronic fatigue and frequent difficulty in speaking, particularly with articulation. Muscle weakness noted in upper limbs. Reports occasional episodes of dizziness and orthostatic hypotension. Has trouble with gait, presenting with an ataxic gait. Experiencing some dysphagia, particularly with liquids. No significant history of cardiac issues, but mentions shortness of breath on exertion. Currently on a regimen that includes baclofen and gabapentin. Sleep disturbances have been noted, with frequent awakenings and difficulty falling back asleep.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic fatigue","R53.82"
+"difficulty in speaking, particularly with articulation","R47.81"
+"Muscle weakness noted in upper limbs","M62.81"
+"dizziness and orthostatic hypotension","I95.1"
+"trouble with gait, presenting with an ataxic gait","R26.0"
+"dysphagia, particularly with liquids","R13.1"
+"shortness of breath on exertion","R06.00"
+"Sleep disturbances","G47"

@@ -1,0 +1,14 @@
+### Clinical Note:
+Patient admitted with complaints of shortness of breath, chest pain on breathing, and chronic fatigue. History reveals a recent onset of dysphagia and fecal incontinence. Neurological examination demonstrates generalized muscle weakness, fasciculations, and abnormal reflexes. Patient also reports difficulties with concentration and attention. No history of depression or anxiety disorders noted. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"chest pain on breathing","R07.1"
+"chronic fatigue","R53.82"
+"dysphagia","R13.1"
+"fecal incontinence","R15"
+"muscle weakness","M62.8"
+"fasciculations","R25.3"
+"abnormal reflexes","R29.2"
+"attention and concentration deficit","R41.840"

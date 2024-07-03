@@ -1,0 +1,14 @@
+### Clinical Note:
+The patient, a 58-year-old male, reports ongoing issues with muscle weakness and frequent shortness of breath. He has also been experiencing dysphagia, making it difficult to swallow solids and liquids. The patient mentions occasional dizziness and has had episodes of fainting (syncope) over the past month. He complains of involuntary muscle twitches, particularly in the arms and legs, along with chronic fatigue. There are also episodes of orthostatic hypotension observed. The patient's speech has become slurred (dysarthria), and he feels a significant decline in his overall motor coordination.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"shortness of breath","R06.0"
+"dysphagia, making it difficult to swallow solids and liquids","R13.10"
+"occasional dizziness and has had episodes of fainting (syncope)","R42"
+"involuntary muscle twitches","R25.3"
+"chronic fatigue","R53.82"
+"episodes of orthostatic hypotension observed","I95.1"
+"speech has become slurred (dysarthria)","R47.1"
+"significant decline in his overall motor coordination","R27.9"

@@ -1,0 +1,18 @@
+### Clinical Note:
+Pt reports severe fatigue and muscle weakness, making it difficult to perform daily activities. Noted issues with coordination and episodes of dizziness. Occasionally experiences shortness of breath and chest pain on exertion. Also complains of speech difficulties and has trouble with swallowing. Insomnia has been persistent. Pt mentioned frequent panic attacks recently, unrelated to ALS symptoms. On examination, pt has ataxic gait and fasciculations in the limbs. Continues to use wheelchair for mobility. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"severe fatigue","R53.83"
+"muscle weakness","M62.81"
+"issues with coordination","R27.9"
+"episodes of dizziness","R42"
+"shortness of breath","R06.0"
+"chest pain on exertion","R07.1"
+"speech difficulties","R47.81"
+"trouble with swallowing","R13.10"
+"Insomnia","G47.0"
+"panic attacks","F41.0"
+"ataxic gait","R26.0"
+"fasciculations in the limbs","R25.3"
+"use wheelchair for mobility","Z99.3"

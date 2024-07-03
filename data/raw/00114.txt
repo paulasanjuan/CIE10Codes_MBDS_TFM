@@ -1,0 +1,15 @@
+### Clinical Note:
+
+Pt. c/o shortness of breath (SOB) and frequent insomnia, making it difficult to rest properly. On exam, noted to have orthostatic hypotension and mild dysphonia. Reports tingling sensations in limbs, particularly at night, and occasional facial weakness. Additionally, experiencing episodes of dizziness and generalized muscle weakness. Takes meds for anxiety and sleep disorders. No hx of chest pain or irregular eye movements.
+
+### ICD-10 Coding Table:
+
+"Text","ICD10"
+"shortness of breath","R06.0"
+"insomnia","G47.0"
+"orthostatic hypotension","I95.1"
+"dysphonia","R49.0"
+"tingling sensations in limbs","R20.2"
+"facial weakness","R29.810"
+"dizziness","R42"
+"generalized muscle weakness","M62.81"

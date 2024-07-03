@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt came in today complaining of shortness of breath and genrlized muscle weaknes. She's been feeling very tired (fatigue) lately, even small tasks seem exusting. Reports frequent cramps and spasms in her legs, which sometimes make it hard to walk. She also mentioned some trouble with speech, saying it's become more difficult to speak clearly. Occasional dizzy spells reported too. Patient is using a wheelchair for longer distances.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"generalized muscle weaknes","M62.81"
+"fatigue","R53.83"
+"cramps and spasms in her legs","R25.2"
+"trouble with speech","R47.89"
+"shortness of breath","R06.0"
+"dizzy spells","R42"
+"using a wheelchair","Z99.3"

@@ -1,0 +1,14 @@
+### Clinical Note:
+
+Patient comes in with complants of shortness of breath and unspec dysphagia, noted especially when eating or drinking. They also report occasional dizziness and facial weakness. There is a hx of muscle twitching, particularly in the arms, which has been more frequent lately. Additionally, pt mentions difficulty in concentrating and experiencing episodes of panic disorder. Recent episodes of unexplained tachycardia have also been noted. The pt denies any urinary incontinence or changes in bowel habits. On examination, there is noted muscle weakness and fasciculation in the upper limbs.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.00"
+"unspec dysphagia","R13.10"
+"dizziness","R42"
+"facial weakness","R29.810"
+"muscle twitching","R25.3"
+"panic disorder","F41.0"
+"unexplained tachycardia","R00.0"
+"muscle weakness","M62.81"

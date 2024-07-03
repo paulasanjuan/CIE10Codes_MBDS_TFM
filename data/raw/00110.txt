@@ -1,0 +1,15 @@
+### Clinical Note:
+
+Pt is a 65 y/o male w/ c/o shortness of breath and muscle weakness. Noted insomnia and occasional facial paralysis. Recently, difficulty in speaking and dysphagia have been problematic, especially with liquids. Reports frequent dizziness and issues w/ mobility, sometimes requiring a wheelchair for longer distances. No history of cardiac issues. Pt also mentions a state of emotional shock due to recent diagnosis, causing anxiety and stress.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.00"
+"muscle weakness","M62.81"
+"insomnia","G47.0"
+"facial paralysis","G51.0"
+"difficulty in speaking","R47.81"
+"dysphagia","R13.1"
+"dizziness","R42"
+"mobility...requiring a wheelchair","Z99.3"
+"emotional shock due to recent diagnosis, causing anxiety and stress","R45.7"

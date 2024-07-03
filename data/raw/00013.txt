@@ -1,0 +1,12 @@
+### Clinical Note:
+
+Patient has been experiencing frequent episodes of muscle fasciculations, especially in the limbs, along with generalized muscle weakness. He also reports feeling dizzy and lightheaded, occasionally leading to syncope. Sleep disturbances, mainly insomnia, have been persistent, contributing to his overall fatigue. His wife noted that he has become more forgetful and often seems disoriented, raising concerns about potential memory issues. Additionally, patient complains of shortness of breath and occasional chest pain, although no cardiac abnormalities were detected.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle fasciculations","R25.3"
+"generalized muscle weakness","M62.81"
+"feeling dizzy and lightheaded, occasionally leading to syncope","R42"
+"Sleep disturbances, mainly insomnia","G47.0"
+"shortness of breath","R06.00"
+"occasional chest pain","R07.9"

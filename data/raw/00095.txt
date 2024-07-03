@@ -1,0 +1,13 @@
+### Clinical Note:
+Patient complains of severe shortness of breath and chest pain on breathing, persisting over the past few weeks. Experiencing muscle weakness and has difficulty with motor coordination, making walking challenging. Reports feeling dizzy frequently and has noticed occasional facial weakness. Also mentions experiencing frequent panic attacks and feeling highly anxious. Patient is currently using a wheelchair for mobility and has dependence on a caregiver for daily activities.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"chest pain on breathing","R07.1"
+"muscle weakness","M62.81"
+"motor coordination...making walking challenging","R26.0"
+"feeling dizzy frequently","R42"
+"occasional facial weakness","R29.810"
+"frequent panic attacks","F41.0"
+"using a wheelchair for mobility","Z99.3"

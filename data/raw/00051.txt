@@ -1,0 +1,10 @@
+### Clinical Note:
+Pt reports severe muscle weakness in arms and legs, making it hard to lift objects. Noticed persistent twitching (fasciculations) in calves and hands. Breathing difficulties have been getting worse, especially at night. Also, complains of shortness of breath during mild activity. No new med allergies, but pt has a history of depression and anxiety, managed with SSRIs. Pt uses a wheelchair for mobility due to significant muscle weakness. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness in arms and legs","M62.81"
+"persistent twitching (fasciculations)","R25.3"
+"Breathing difficulties...at night","R06.00"
+"shortness of breath during mild activity","R06.02"
+"uses a wheelchair for mobility","Z99.3"

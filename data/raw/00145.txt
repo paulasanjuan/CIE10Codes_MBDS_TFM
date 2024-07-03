@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt complains of sevral issues including muscle weakness and frequent fasciculations. Reports trouble swallowing, esp with liquids, and has noticed slurred speech. Experiencing dizzi and orthostatic hypotension, with occasnl episodes of unexplained anxiety. Also mentions chronic fatigue and difficulty in concentrating. Further eval and monitoring reqd.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.8"
+"fasciculations","R25.3"
+"trouble swallowing, esp with liquids","R13.10"
+"slurred speech","R47.81"
+"Experiencing dizzi and orthostatic hypotension","I95.1"
+"chronic fatigue","R53.82"
+"difficulty in concentrating","R41.840"

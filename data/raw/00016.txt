@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt c/o shortness of breath and episodes of dizziness, especially when standing up quickly. Reports difficulty swallowing both liquids and solids, with episodes of choking. Noted recent increase in muscle twitches and spasms, primarily in lower limbs. States that speech has become slurred and difficult to understand. Continues to experience chronic fatigue and has frequent chest pains. Patient denies any significant changes in vision or hearing. Currently taking Baclofen and Gabapentin for symptom management.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"difficulty swallowing both liquids and solids","R13.10"
+"muscle twitches and spasms","R25.2"
+"speech has become slurred and difficult to understand","R47.81"
+"chronic fatigue","R53.82"
+"chest pains","R07.9"
+"dizziness","R42"

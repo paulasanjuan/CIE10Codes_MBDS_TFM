@@ -1,0 +1,11 @@
+### Clinical Note:
+Pt. reports persistent muscl weakness and has been experiencing cramps and spasms in legs. During the past few weeks, noticed diff speaking, sometimes leading to slurred speech. Pt also mentioned feelin' light-headed and dizzy often, with some difficulty breathing at night. There's no hist of recent infections or head injuries. Ongoing issues with urinary incontinence reported. Rx includes Riluzole and Baclofen for symptom mgmt. No facial paralysis observed. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscl weakness","M62.81"
+"cramps and spasms","R25.2"
+"diff speaking, sometimes leading to slurred speech","R47.81"
+"feelin' light-headed and dizzy","R42"
+"difficulty breathing at night","R06.00"
+"urinary incontinence","R32"

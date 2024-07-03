@@ -1,0 +1,17 @@
+### Clinical Note:
+
+Pt. c/o persistent muscle weaknes and cramping. Reports difficulty swallowing, especially liquids, with occ. episodes of choking. Speech has become slurred and slow, making comm. difficult. Experiencing severe fatigue and freq. involuntary muscle twitches. Also, pt. has dizziness when standing up quickly, but denies any chest pain or SOB. Using wheelchair for mobility, req. assistance for most daily activities. Noted increased anxiety and feelings of sadness, pt. denies any panic attacks. No abnormal eye movements or facial weakness observed.
+
+### ICD-10 Coding Table:
+
+"Text","ICD10"
+"muscle weaknes","M62.81"
+"cramping","R25.2"
+"difficulty swallowing","R13.10"
+"slurred and slow... Speech","R47.1"
+"severe fatigue","R53.83"
+"freq. involuntary muscle twitches","R25.3"
+"dizziness when standing up quickly","I95.1"
+"Using wheelchair for mobility","Z99.3"
+"increased anxiety","F41.9"
+"feelings of sadness","F32.8"

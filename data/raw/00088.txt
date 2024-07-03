@@ -1,0 +1,14 @@
+### Clinical Note:
+
+Pt c/o of severe muscl weakness and spasms over the past few wks. Difficulty w/ speaking, experiencing dysarthria. Noticeable fasciculations in the arms and legs. Reports shortness of breath, worse at night. Hx of orthostatic hypotension. Pt is also complaining of paresthesias and gen fatigue, impacting daily activities. Currently on gabapentin and baclofen for symptom mgmt. No recent changes in vision or hearing.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscl weakness","M62.81"
+"spasms","R25.2"
+"difficulty w/ speaking, experiencing dysarthria","R47.1"
+"fasciculations in the arms and legs","R25.3"
+"shortness of breath","R06.0"
+"orthostatic hypotension","I95.1"
+"paresthesias","R20.2"
+"gen fatigue","R53.83"

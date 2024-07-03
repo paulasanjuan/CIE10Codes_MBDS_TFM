@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt c/o chronic shortness of breath, esp during exertion. Experiencing severe muscle wkness in arms and legs. Reports difficulty with coordination, resulting in frequent falls and trouble walking, likely ataxic gait. Occasional dysphagia, more pronounced with liquids. Also mentions facial wkness, leading to difficulty in making expressions. Additional concerns include depression and frequent bouts of anxiety. Currently taking baclofen for muscle spasms and undergoing physical therapy. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.00"
+"severe muscle wkness in arms and legs","M62.81"
+"difficulty with coordination, resulting in frequent falls and trouble walking, likely ataxic gait","R26.0"
+"dysphagia, more pronounced with liquids","R13.10"
+"facial wkness","R29.810"
+"depression","F32.A"
+"frequent bouts of anxiety","F41.9"

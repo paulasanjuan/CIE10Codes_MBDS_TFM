@@ -1,0 +1,13 @@
+### Clinical Note:
+
+Pt. reports chronic respitory failure, esp at night, with frequent orthostatic hypotension. Experiencing muscle weakness & fasciculations in limbs. Also, noted difficulty swallowing & occasional fecal incontinence. Pt. mentions feeling panic attacks and ongoing anxiety. Recent visit revealed sleep disturbances, often waking up disoriented. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic respitory failure","J96.1"
+"orthostatic hypotension","I95.1"
+"muscle weakness & fasciculations","R25.3"
+"difficulty swallowing","R13.1"
+"fecal incontinence","R15"
+"panic attacks and ongoing anxiety","F41.0"
+"sleep disturbances","G47"

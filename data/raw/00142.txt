@@ -1,0 +1,14 @@
+### Clinical Note:
+Pt came in c/o severe muscle wkns and freq. fasciculations in upper limbs. Reports chronic resp failure, requiring BiPAP at night. Also, pt has difficulty swallowing, needing soft diet and thickeners. Emotional stress levels high, currently taking meds for anxiety. Noticed increased dizziness and instances of orthostatic hypotension. Exam shows signs of involuntary movements and mild ataxia. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"severe muscle wkns","M62.81"
+"fasciculations in upper limbs","R25.3"
+"chronic resp failure","J96.1"
+"difficulty swallowing","R13.1"
+"Emotional stress levels high","R45.7"
+"increased dizziness","R42"
+"orthostatic hypotension","I95.1"
+"involuntary movements","R25.8"
+"mild ataxia","R27.0"

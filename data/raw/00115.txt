@@ -1,0 +1,13 @@
+### Clinical Note:
+Pt presents with severe shortness of breath and difficulty breathing, worsened over the last few weeks. Also c/o muscle weakness and occasional muscle spasms. Reports frequent dizziness and syncope. Denies any urinary incontinence. Noticed increased facial weakness on the right side. Experiencing episodes of chest pain on breathing and constant fatigue. Current medications include baclofen for muscle spasms and albuterol for breathing issues. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"difficulty breathing","R06.02"
+"muscle weakness","M62.81"
+"muscle spasms","R25.2"
+"frequent dizziness and syncope","R42"
+"increased facial weakness","R29.810"
+"chest pain on breathing","R07.1"
+"constant fatigue","R53.83"

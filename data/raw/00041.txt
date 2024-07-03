@@ -1,0 +1,14 @@
+### Clinical Note:
+Pt arrived complaining of persistent muscle weakness and shortness of breath, worsened by exertion. Has episodes of panic disorder and reports occasional facial weakness. Also mentions difficulty speaking, particularly in stressful situations. No recent changes in mobility, but experiences muscle cramps regularly. Noticed occasional dizziness and tingling in extremities. Currently on medication for chronic respiratory failure and anxiety management.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"shortness of breath","R06.0"
+"panic disorder","F41.0"
+"facial weakness","R29.810"
+"difficulty speaking","R47.81"
+"muscle cramps","R25.2"
+"dizziness","R42"
+"tingling in extremities","R20.2"
+"chronic respiratory failure","J96.1"

@@ -1,0 +1,12 @@
+### Clinical Note:
+Patient p/w (presented with) chronic resp failr and gen fatigue, noting increased freq of muscle spasms and cramps. Reports feeling dizzy and occasional syncope. Speech is slurred and has difficulties in pronouncing words, leading to dysarthria. Pt also c/o difficulty swallowing both solids and liquids. Reports experiencing paresthesia in hands and feet. No new meds, cont current tx.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic resp failr","J96.1"
+"gen fatigue","R53.83"
+"muscle spasms and cramps","R25.2"
+"feeling dizzy and occasional syncope","R42"
+"Speech is slurred and has difficulties in pronouncing words, leading to dysarthria","R47.1"
+"difficulty swallowing both solids and liquids","R13.1"
+"paresthesia in hands and feet","R20.2"

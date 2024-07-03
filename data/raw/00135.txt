@@ -1,0 +1,13 @@
+### Clinical Note:
+Patient comes in with complaints of chronic muscle weakness and some difficulty speaking over the past 6 months. He's also been experiencing dizziness and occasional urinary incontinence. The family mentions an increase in emotional stress due to his condition. On examination, noted fasciculations in the lower limbs and mild dysarthria. There’s also a report of paresthesias in the hands. The patient denies chest pain or shortness of breath. He is currently taking baclofen for muscle spasms.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic muscle weakness","M62.81"
+"difficulty speaking","R47.81"
+"dizziness","R42"
+"urinary incontinence","R32"
+"emotional stress","R45.7"
+"fasciculations in the lower limbs","R25.3"
+"dysarthria","R47.1"
+"paresthesias in the hands","R20.2"

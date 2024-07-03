@@ -1,0 +1,11 @@
+### Clinical Note:
+Pt presents w/ sgnificant muscle weakness, especially in the limbs, which is progressively worsening. Reports persistent shortness of breath (SOB) and finds it hard to walk due to ataxic gait. Experiencing difficulty speaking, noted as dysarthria, and has recent episodes of involuntary muscle twitching. Also mentions periods of dizziness and syncope, but no issues with urinary incontinence. Pt is on riluzole and baclofen.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness, especially in the limbs","M62.81"
+"persistent shortness of breath","R06.00"
+"ataxic gait","R26.0"
+"difficulty speaking, noted as dysarthria","R47.1"
+"involuntary muscle twitching","R25.3"
+"dizziness and syncope","R42"

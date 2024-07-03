@@ -1,0 +1,15 @@
+### Clinical Note:
+Patient has been experiencing frequent episodes of shortness of breath and muscle weakness over the past few months. Reports difficulty swallowing both liquids and solids, indicating dysphagia. Also noted are occasional involuntary muscle twitches, predominantly in the legs. Patient mentions episodes of dizziness and orthostatic hypotension, especially when standing up too quickly. Anxiety and panic attacks have also been increasingly affecting the patient's daily life. Nocturnal sleep disturbances, including insomnia, have been reported as well. Generalized fatigue is present, leading to decreased physical activity. Patient requires assistance with mobility and uses a wheelchair for longer distances.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"muscle weakness","M62.81"
+"difficulty swallowing...dysphagia","R13.1"
+"involuntary muscle twitches","R25.3"
+"dizziness","R42"
+"orthostatic hypotension","I95.1"
+"anxiety and panic attacks","F41.0"
+"insomnia","G47.0"
+"Generalized fatigue","R53.83"
+"requires assistance with mobility and uses a wheelchair","Z99.3"

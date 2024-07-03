@@ -1,0 +1,14 @@
+### Clinical Note:
+Pt presents w/ chronic resp failure, on home O2. Reports frequent SOB and diff w/ speech, sometimes leading to complete loss of voice. Experiencing muscle weakness, esp in the limbs, making mobility difficult - pt often needs assist w/ walking. Complains of fasciculations and frequent fatigue, interfering with daily activities. Pt also reports episodes of orthostatic hypotension, dizziness on standing, and mild depression. No signs of facial weakness or urinary incontinence.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic resp failure","J96.1"
+"frequent SOB","R06.00"
+"diff w/ speech","R47.8"
+"loss of voice","R49.1"
+"muscle weakness","M62.8"
+"assist w/ walking","Z74.0"
+"fasciculations","R25.3"
+"frequent fatigue","R53.83"
+"orthostatic hypotension","I95.1"

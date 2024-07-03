@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt came in today with complaints of dizziness and unsteady gait. There's notable muscle fasciculation in the limbs, which seems to be worsening. Also mentions shortness of breath and occasional difficulty in speaking. Orthostatic hypotension was observed during the exam. Pt's sleep is disturbed, reporting chronic insomnia. No recent falls, but has a hx of respiratory failure. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"dizziness and unsteady gait","R26.0"
+"muscle fasciculation","R25.3"
+"shortness of breath","R06.00"
+"difficulty in speaking","R47.81"
+"Orthostatic hypotension","I95.1"
+"chronic insomnia","G47.0"
+"respiratory failure","J96.9"

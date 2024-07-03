@@ -1,0 +1,13 @@
+### Clinical Note:
+The pt has been experiencing severe shortness of breath and occasional chest pain, particularly on exertion. There are also complaints of muscle weakness, mostly in the lower limbs. Sleep disturbances have been reported, primarily insomnia. Physical exam reveals facial weakness and some dysarthria. No new urinary symptoms or signs of orthostatic hypotension. Reports occasional dizziness and generalized fatigue. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"chest pain, particularly on exertion","R07.9"
+"muscle weakness, mostly in the lower limbs","M62.81"
+"insomnia","G47.0"
+"facial weakness","R29.810"
+"dysarthria","R47.1"
+"dizziness","R42"
+"generalized fatigue","R53.83"

@@ -1,0 +1,11 @@
+### Clinical Note:
+Patient exhibits severe respiratory distress and shortness of breath. Noted history of insomnia and significant muscle weakness, particularly in lower limbs. ALS progression has led to chronic respiratory failure, necessitating the use of BiPAP during night. Dysphagia is markedly severe, with increasing difficulty managing saliva. Generalized fatigue is a major complaint, affecting daily activities. Currently, treatment regimen includes Riluzole, Baclofen for spasticity, and periodic respiratory therapy.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"respiratory distress, shortness of breath","R06.0"
+"insomnia","G47.0"
+"muscle weakness","M62.81"
+"chronic respiratory failure","J96.1"
+"dysphagia","R13.1"
+"generalized fatigue","R53.83"

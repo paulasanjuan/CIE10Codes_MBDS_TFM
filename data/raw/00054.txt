@@ -1,0 +1,14 @@
+### Clinical Note:
+Pt reports a worsening shortness of breath, esp at night. Also complains of frequent muscle twitching and cramps in both legs. Has noticed increased dizziness upon standing, leading to a few instances of syncope. Difficulty in swallowing solid foods has been problematic, pt is also experiencing general weakness and fatigue throughout the day. Has had issues with incontinence, both urinary and fecal. Some trouble with speech, occasionally slurred. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.00"
+"muscle twitching","R25.3"
+"cramps in both legs","R25.2"
+"dizziness upon standing","R42"
+"syncope","R42"
+"Difficulty in swallowing solid foods","R13.1"
+"general weakness and fatigue","R53.83"
+"incontinence, both urinary and fecal","R32"
+"trouble with speech, occasionally slurred","R47.81"

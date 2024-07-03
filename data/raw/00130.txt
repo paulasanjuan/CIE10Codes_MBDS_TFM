@@ -1,0 +1,14 @@
+### Clinical Note:
+Pt c/o feeling dizzy (esp. when standing up) and chest pains on and off for the last 2 weeks. Reports muscle twitches in arms and legs, sometimes painful cramps. Difficulty in speaking clearly, slurred speech noticed by family. Struggling with urinary incontinence and trouble sleeping. Pt also experiences numbness in hands. Recently began having trouble swallowing liquids and solids. Takes gabapentin and baclofen for symptom control.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"feeling dizzy (esp. when standing up)","R42"
+"chest pains on and off","R07.8"
+"muscle twitches in arms and legs","R25.3"
+"painful cramps","R25.2"
+"difficulty in speaking clearly, slurred speech","R47.81"
+"urinary incontinence","R32"
+"trouble sleeping","G47.0"
+"numbness in hands","R20.0"
+"trouble swallowing liquids and solids","R13.1"

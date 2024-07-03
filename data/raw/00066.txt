@@ -1,0 +1,11 @@
+### Clinical Note:
+Patient presented with frequent episodes of chest pain and shortness of breath, esp during physical activity. He also reports difficulty with coordination and unsteady gait. Noted increased muscle weakness over the last few months, leading to trouble with daily activities. Complains of insomnia and occasional dizziness. Pt is currently on a regime of medication including baclofen and sertraline.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"shortness of breath","R06.0"
+"difficulty with coordination","R27.9"
+"unsteady gait","R26.0"
+"insomnia","G47.0"
+"occasional dizziness","R42"

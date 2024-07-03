@@ -1,0 +1,3 @@
+Media de la precisión de la predicción: 0.04291666666666667 
+Media de las coincidencias entre registros sinónimos: 0.16749999999999998 
+Media de especificidad de códigos predichos: 0.7219984716859716

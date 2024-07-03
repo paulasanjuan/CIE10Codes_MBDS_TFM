@@ -1,0 +1,14 @@
+### Clinical Note:
+Pt c/o muscle weakness, especially in the legs, and freq fasciculations over past 6 mos. Reports trouble swallowing, mostly with liquids, and has had episodes of choking. Observed involuntary head movements and speech is slurred. Pt also reports generalized fatigue and occasional dizziness. No signs of facial paralysis but there is noted voice hoarseness. Pt's sleep has been disturbed, feeling tired during the day. Currently taking Baclofen and Gabapentin.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness, especially in the legs","M62.81"
+"freq fasciculations","R25.3"
+"trouble swallowing, mostly with liquids","R13.10"
+"involuntary head movements","R25.0"
+"speech is slurred","R47.81"
+"generalized fatigue","R53.82"
+"occasional dizziness","R42"
+"voice hoarseness","R49.0"
+"Pt's sleep has been disturbed","G47.0"

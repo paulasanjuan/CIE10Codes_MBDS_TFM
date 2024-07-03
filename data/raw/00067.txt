@@ -1,0 +1,12 @@
+### Clinical Note:
+
+Patient reports persistent difficulty with speech, often experiencing dysarthria. They have also noted muscle weakness, especially in the lower limbs, which is progressively worsening. There's a history of panic disorder, managed with medication, but the anxiety seems to be under control currently. Sleep disturbances have been problematic, particularly insomnia. Recently, the patient has had episodes of shortness of breath and occasional dizziness. Routine checkup revealed signs of facial paralysis. There is no report of urinary incontinence or abnormal cardiac arrhythmias. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"difficulty with speech, often experiencing dysarthria","R47.1"
+"muscle weakness, especially in the lower limbs","M62.81"
+"panic disorder","F41.0"
+"insomnia","G47.0"
+"shortness of breath","R06.0"
+"facial paralysis","G51.0"

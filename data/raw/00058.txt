@@ -1,0 +1,11 @@
+### Clinical Note:
+Pt. c/o severe SOB and chronic fatigue. Reports frequent episodes of dizziness and syncope. Speech is impaired with noticeable dysarthria. Pt. has muscle weakness, esp. in upper limbs. Motor coordination affected with ataxic gait. Denies any urinary incontinence. On supportive therapy.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"severe SOB","R06.00"
+"chronic fatigue","R53.82"
+"dizziness and syncope","R42"
+"dysarthria","R47.1"
+"muscle weakness","M62.81"
+"ataxic gait","R26.0"

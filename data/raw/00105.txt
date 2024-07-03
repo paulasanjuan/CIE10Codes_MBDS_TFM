@@ -1,0 +1,15 @@
+### Clinical Note:
+
+Pt. complains of muscle weakness and frequent cramps, mostly in legs. Also reports difficulty in swallowing and occasional shortness of breath. Insomnia has been a persistent issue. Motor coordination is visibly impaired, with some gait disturbances noted during examination. Experiencing chronic fatigue and episodes of anxiety. No significant hx of heart issues, but pt mentions some chest pain, especially during exertion. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"cramps","R25.2"
+"difficulty in swallowing","R13.1"
+"shortness of breath","R06.00"
+"insomnia","G47.0"
+"motor coordination is visibly impaired","R27.9"
+"chronic fatigue","R53.83"
+"anxiety","F41.9"
+"chest pain","R07.9"

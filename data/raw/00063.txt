@@ -1,0 +1,15 @@
+### Clinical Note:
+Pt came in c/o shortness of breath and increasing muscle weakness. Over the past few weeks, he has noticed a significant decrease in mobility and has had to use a wheelchair more frequently. Reports occasional dysphagia and frequent cramping in his legs. Pt's wife mentions episodes of difficulty speaking and what seems like fasciculations in his arms. He also has experienced dizziness and orthostatic hypotension. Sleep has been disrupted, likely due to respiratory issues.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"increasing muscle weakness","M62.81"
+"decrease in mobility...use a wheelchair","Z99.3"
+"occasional dysphagia","R13.1"
+"frequent cramping in his legs","R25.2"
+"difficulty speaking","R47.81"
+"fasciculations in his arms","R25.3"
+"dizziness","R42"
+"orthostatic hypotension","I95.1"
+"Sleep has been disrupted","G47"

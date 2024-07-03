@@ -1,0 +1,13 @@
+### Clinical Note:
+Patient is experiencing severe muscle weakness, esp in the lower limbs, and has been facing difficulties with gait, often showing signs of ataxic gait. There are noticeable fasciculations in the arms. Pt. reports chronic fatigue and occasional dizziness. Speech has become slurred and difficult to understand (dysarthria), and there is a report of intermittent difficulty swallowing liquids (dysphagia). Also, the pt. has been experiencing episodes of orthostatic hypotension. Current meds include Baclofen and Gabapentin.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"ataxic gait","R26.0"
+"fasciculations in the arms","R25.3"
+"chronic fatigue","R53.82"
+"dizziness","R42"
+"Speech has become slurred and difficult to understand (dysarthria)","R47.1"
+"intermittent difficulty swallowing liquids (dysphagia)","R13.1"
+"episodes of orthostatic hypotension","I95.1"

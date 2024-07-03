@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt reports incresing shortness of breath over the past few weeks, especially during physical activity. Also, pt. has been having severe muscle weakness, making daily tasks difficult. Noticed numbness and tingling in hands and feet. There is a complaint of chest pain on breathing and an occasional feeling of dizziness. Pt also notes episodes of panic attacks and difficulty sleeping. On exam, there is obvious facial weakness. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.00"
+"severe muscle weakness","M62.81"
+"numbness and tingling","R20.2"
+"chest pain on breathing","R07.1"
+"facial weakness","R29.810"
+"difficulty sleeping","G47.0"
+"panic attacks","F41.0"

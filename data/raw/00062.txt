@@ -1,0 +1,14 @@
+### Clinical Note:
+Pt. here for f/u on weakness in legs and arms, esp. in AM. Reports increased fasciculations, noted by spouse. Spch slurred at times, and has had episodes of hoarseness. Insomnia is a persistent issue, even w/melatonin. Pt. c/o paresthesias in hands, esp. @night. Denies orthostatic hypotension or chest pain. Urinary incontinence, which is embarrassing, is getting worse. Continues to need assistance with mobility and uses a wheelchair for longer distances.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"weakness in legs and arms","M62.81"
+"increased fasciculations","R25.3"
+"Spch slurred","R47.81"
+"episodes of hoarseness","R49.0"
+"Insomnia is a persistent issue","G47.0"
+"paresthesias in hands","R20.2"
+"Urinary incontinence","R32"
+"need assistance with mobility","Z74.0"
+"uses a wheelchair","Z99.3"

@@ -1,0 +1,15 @@
+### Clinical Note:
+Patient complains of dyspnea and a persistant feeling of chest pain on breathing, mostly when exerting. Reports episodes of dizziness and syncope, making daily activities difficult. Recently, he has also experienced some urinary incontinence and muscle cramps, which are particularly bothersome at night. He mentions chronic fatigue and occasional shortness of breath. There's noted difficulty with speaking clearly, leading to frequent miscommunication. He has trouble with motor coordination, especially with fine motor tasks, and has become increasingly dependent on his wheelchair for mobility. Currently taking baclofen for spasms and some anxiety medication.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"dyspnea","R06.00"
+"chest pain on breathing","R07.1"
+"dizziness and syncope","R42"
+"urinary incontinence","R32"
+"muscle cramps","R25.2"
+"chronic fatigue","R53.82"
+"shortness of breath","R06.0"
+"difficulty with speaking","R47.81"
+"trouble with motor coordination","R27.9"
+"dependent on his wheelchair","Z99.3"

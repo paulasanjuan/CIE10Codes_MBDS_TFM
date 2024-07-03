@@ -1,0 +1,14 @@
+### Clinical Note:
+Pt reports increased difficulty with breathing at night, often waking up feeling short of breath. Complains of muscle twitching in legs and sporadic facial numbness. Recent episodes of dizziness and intermittent chest pain noted, especially after physical activity. Speech has become slurred, and pt occasionally finds swallowing challenging. Reports chronic fatigue that affects daily activities. BP normal, but orthostatic hypotension noted upon standing.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"short of breath","R06.00"
+"muscle twitching in legs","R25.3"
+"facial numbness","R20.0"
+"dizziness","R42"
+"intermittent chest pain","R07.9"
+"Speech has become slurred","R47.81"
+"swallowing challenging","R13.10"
+"chronic fatigue","R53.82"
+"orthostatic hypotension","I95.1"

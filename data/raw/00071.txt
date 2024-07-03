@@ -1,0 +1,14 @@
+### Clinical Note:
+Patient reports severe difficulty breathing, especially at night, leading to chronic fatigue during the day. Also complains of persistent muscle weakness and occasional muscle cramps. Noted shortness of breath even with mild exertion. Experiencing increased episodes of involuntary muscle twitching and frequent difficulty in swallowing. Sleep has been disturbed due to these symptoms. Pt also mentions episodes of dizziness and has been feeling more anxious lately. No changes in bowel habits. Regular medications include Riluzole and Baclofen.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"difficulty breathing","R06.00"
+"chronic fatigue","R53.82"
+"muscle weakness","M62.81"
+"muscle cramps","R25.2"
+"shortness of breath","R06.0"
+"involuntary muscle twitching","R25.3"
+"difficulty in swallowing","R13.1"
+"dizziness","R42"
+"feeling more anxious","F41.9"

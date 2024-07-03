@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt. has reported severe muscle cramps and spasms, particularly in the legs, over the past month. Complains of feeling short of breath frequently, esp. when walking short distances. Also noted chronic fatigue and occasional difficulty speaking clearly. Pt. is using a wheelchair for mobility due to generalized muscle weakness and coordination issues. Incontinence is an issue, both urinary and fecal, causing significant distress. Mood is low, and pt. shows signs of a depressive episode. Continuing treatment with Baclofen and Gabapentin. Follow-up in 2 weeks.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle cramps and spasms","R25.2"
+"short of breath","R06.0"
+"chronic fatigue","R53.82"
+"difficulty speaking clearly","R47.81"
+"generalized muscle weakness and coordination issues","M62.81"
+"Incontinence is an issue, both urinary and fecal","R32"
+"depressive episode","F32"

@@ -1,0 +1,15 @@
+### Clinical Note:
+
+Pt is a 68 y/o male, hx of chronic resp. failure, presenting with shortness of breath and severe muscle weakness. Pt also reports experiencing involuntary muscle cramps, facial weakness, and difficulty speaking. Additional symptoms include anxiety and frequent dizziness. Has been using a wheelchair for mobility assistance. Sleep disturbances have been noted, but no significant changes in urinary or fecal continence. Pt denies chest pain or orthostatic hypotension. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic resp. failure","J96.1"
+"shortness of breath","R06.0"
+"severe muscle weakness","M62.81"
+"involuntary muscle cramps","R25.2"
+"facial weakness","R29.810"
+"difficulty speaking","R47.81"
+"anxiety","F41.9"
+"dizziness","R42"
+"using a wheelchair for mobility assistance","Z99.3"

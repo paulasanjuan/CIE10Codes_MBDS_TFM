@@ -1,0 +1,161 @@
+Prompts,CodigosCIE,codigosCIE10_pred,evaluation_metric,evaluation_pair,specificity
+progressive weakness in the muscles,"R53.1,M62.81","G72.2, G72.3",0.0,0.0,1.0
+muscular debility in the limbs,"R53.1,M62.81","M62, M62.8",0.0,0.0,0.5
+lack of balance,"R27.8,R27.9","R11.2, G87.1",0.0,0.0,1.0
+insufficient muscle coordination,"R27.8,R27.9",G83.1,0.0,0.0,1.0
+lack of muscle control,R27.0,R54.2,0.0,0.0,1.0
+insufficient balance,R27.0,,0.0,0.0,0.0
+slower speach,"R47.01,R47.1","R29.0, G44.3",0.0,0.0,1.0
+comunication has decelerated,"R47.01,R47.1",,0.0,0.0,0.0
+slurred speach,R47.81,"R12.0, G04.2",0.0,0.0,1.0
+comunication has become indistinct,R47.81,,0.0,0.0,0.0
+difuculty articulating words,R47.82,,0.0,0.0,0.0
+challenges in enunciating words,R47.82,"R14.2, R15.8, R14.3, R14, R15.0, R14.4, R15.1",0.0,0.0,0.8571428571428571
+problems swollowing food and liquids,"R13.1,R13.10","R12.0, Z92.3",0.0,0.0,1.0
+choking during meals,"R13.1,R13.10","R09.0, Z92",0.0,0.0,0.5
+coughing during meals,R05.1,"Z92, R05.1, R05, R10.0, R05.0",1.0,0.0,0.6
+dificulties ingesting food an beverages,R05.1,"K05, X42.2",0.0,0.0,0.5
+shortness of breath,"R06.00,R06.02",R06,0.0,0.0,0.0
+breathlessness,"R06.00,R06.02",R06.0,0.0,0.0,1.0
+tightness in the chest,"R07.1,R07.81,R07.9",I20.9,0.0,1.0,1.0
+contriction in the chest,"R07.1,R07.81,R07.9",I20.9,0.0,1.0,1.0
+shortness of breath,"R06.00,R06.02",R06,0.0,0.0,0.0
+breathlessness,"R06.00,R06.02",R06.0,0.0,0.0,1.0
+muscel stiffness,R25.3,G82.1,0.0,0.0,1.0
+muscle rigidity,R25.3,R24.0,0.0,0.0,1.0
+anxiety,"F41.0,F41.9","F41.2, F41.3, F41.9, F41.1, F41.0",1.0,0.0,1.0
+unease,"F41.0,F41.9",,0.0,0.0,0.0
+depresion,"F32.0,F32.1,F32.A",,0.0,0.0,0.0
+despondency,"F32.0,F32.1,F32.A",,0.0,0.0,0.0
+concentration difficulties,R41.840,"R45.3, G93.3",0.0,0.0,1.0
+challenges in focus,R41.840,"R06, I42.0, I20.9",0.0,0.0,0.6666666666666666
+memory loss,R41.3,"F02.9, G30.0, R41.3",1.0,0.0,1.0
+lapses in memory,R41.3,G31.0,0.0,0.0,1.0
+extreme fatigue,"R53.82,R53.83",,0.0,0.0,0.0
+severe exhaustion,"R53.82,R53.83",E43.9,0.0,0.0,1.0
+difficulty in holding objects firmly,"R29.9,R29.91",R45,0.0,0.0,0.0
+chalenges in grasping items securely,"R29.9,R29.91",G84.1,0.0,0.0,1.0
+muscel atrophy,M62.81,"G72.1, M62, M62.8, G72.2, R53.1",0.0,0.4,0.8
+muscle wasting,M62.81,"M62, M62.8",0.0,0.4,0.5
+loss os muscle mass,M62.84,E40.0,0.0,0.0,1.0
+reducction in muscle volume,M62.84,R54.2,0.0,0.0,1.0
+weakness,R53.1,"R54, R54.2, R54.8",0.0,0.3333333333333333,0.6666666666666666
+debility,R53.1,R54.2,0.0,0.3333333333333333,1.0
+tension in the muscles,M62.9,R24.6,0.0,0.0,1.0
+tightness in the muscle,M62.9,R25.0,0.0,0.0,1.0
+muscle crmaps,R25.2,"R29.2, R29.0",0.0,0.0,1.0
+muscle spasms,R25.2,M47.2,0.0,0.0,1.0
+painfull and involuntary contractions,M62.838,"R29.2, G45.1",0.0,0.0,1.0
+uncontrolled contractions in muscles,M62.838,G26.4,0.0,0.0,1.0
+bilateral facial muscle weakness,"M62.81,G51.0,R29.810","G51.0, G51.8",0.3333333333333333,0.5,1.0
+symmetric facial muscle weakness,"M62.81,G51.0,R29.810",G51.0,0.3333333333333333,0.5,1.0
+inappropriate facial movements,R25.0,R54.8,0.0,0.0,1.0
+inadequate facial gestures,R25.0,R47.3,0.0,0.0,1.0
+facial tics,F95.0,G44.1,0.0,0.0,1.0
+facial twitches,F95.0,G43.9,0.0,0.0,1.0
+twitching,M62.838,G26.0,0.0,0.0,1.0
+spasms,M62.838,G45.1,0.0,0.0,1.0
+changes in the patient's posture,R29.898,R35.0,0.0,0.0,1.0
+alterations in the patient's body position,R29.898,,0.0,0.0,0.0
+difficulty in standing upright,R26.81,R54.2,0.0,0.0,1.0
+chalenges in maintaining erect stance,R26.81,"R35.4, G83.1",0.0,0.0,1.0
+muscel weakness,M62.81,"G72.2, R54.2",0.0,0.0,1.0
+diminished muscle strength muscel weakness,M62.81,"M62, M62.8",0.0,0.0,0.5
+weakness in the neck muscles,"M62.58,M62.5A0",G51.0,0.0,0.0,1.0
+muscle weakness in the neck,"M62.58,M62.5A0","R54, R54.2, G51.9, G51",0.0,0.0,0.5
+forward leaning posture,R29.3,R24.3,0.0,1.0,1.0
+tendency to lean forward,R29.3,R24.3,0.0,1.0,1.0
+twitching of different areas of the body,"R25.3,R25.8,R25.9","G26.1, G26.0",0.0,0.25,1.0
+spasms in various regions of the body,"R25.3,R25.8,R25.9","G26.1, G26.2, G26.8, G26.4, G26.0, G26.9, G26.3, R29.0",0.0,0.25,1.0
+muscle contractions visible under the skin,"R25.3,R25.8,R25.9",R29.0,0.0,0.0,1.0
+muscle twitches discernible beneath the skin,"R25.3,R25.8,R25.9",M47.3,0.0,0.0,1.0
+loss of control over bladder and bowel,"R15.0,R32,N39.41,N39.46","R10.2, R35.0",0.0,0.0,1.0
+bladder and bowel management has become compromised,"R15.0,R32,N39.41,N39.46","R11.2, R10",0.0,0.0,0.5
+urinary leakage,"R32,N39.41",R35.0,0.0,1.0,1.0
+urinary incontinence,"R32,N39.41",R35.0,0.0,1.0,1.0
+fecal incontinence,R15.0,R10,0.0,0.0,0.0
+fecal leakage,R15.0,"R10.3, K57.2",0.0,0.0,1.0
+difficulties with fine and precise hand movements,"R27.0,R29.898",G84.1,0.0,1.0,1.0
+challenges with delicate and exact hand motions,"R27.0,R29.898",G84.1,0.0,1.0,1.0
+increased sensitivity to heat or cold,R20.8,"T24.2, T24.1",0.0,0.0,1.0
+heightened responsiveness to warmth or chill,R20.8,G93.3,0.0,0.0,1.0
+changes in skin colour,"L81.0,L81.9","R94.8, R94.3, R94.1, R94.0, R94.2",0.0,0.8333333333333334,1.0
+alterations in skin hue,"L81.0,L81.9","R94.8, R94.3, R94.9, R94.1, R94.0, R94.2",0.0,0.8333333333333334,1.0
+ataxic gait,R26.0,G81.2,0.0,0.0,1.0
+ataxic walking,R26.0,G26.0,0.0,0.0,1.0
+difficulty in making coordinated eye movements,"H55.00,H55.81",H46.3,0.0,0.0,1.0
+challenges in executing synchronized eye movements,"H55.00,H55.81",,0.0,0.0,0.0
+changes in tactile sensitivity,R20.3,"H51.9, G82.1",0.0,0.0,1.0
+alterations in tactile sensitivity,R20.3,R26.0,0.0,0.0,1.0
+changes in pain perception,R20.3,"R54.8, R54.1, R52.0, R54.2",0.0,0.0,1.0
+alterations in pain perception,R20.3,G47.3,0.0,0.0,1.0
+numbness,"R20.0,R20.2",G53.1,0.0,1.0,1.0
+tingling,"R20.0,R20.2",G53.1,0.0,1.0,1.0
+unexplain pain,R52,,0.0,0.0,0.0
+inexplicable disconfort,R52,,0.0,0.0,0.0
+voice changes,R49.0,R05.1,0.0,1.0,1.0
+alterations in voice quality,R49.0,R05.1,0.0,1.0,1.0
+hoarse,"R49.0,R49.1","R05.8, R05.1, R05.0, R05.2",0.0,0.0,1.0
+huskiness,"R49.0,R49.1",,0.0,0.0,0.0
+weak voice,"R49.0,R49.1",R05.1,0.0,0.0,1.0
+feebleness,"R49.0,R49.1",G81.2,0.0,0.0,1.0
+affectation in the laryngeal muscles,J38.00,"R01.0, R11.0",0.0,0.3333333333333333,1.0
+dysfunction of the laryngeal muscles,J38.00,"R11.0, R05.1",0.0,0.3333333333333333,1.0
+difficulty maintaining an adequate body temperature,R68.0,Z92,0.0,0.0,0.0
+challenges in maintaining a suitable body temperature,R68.0,"Z87.1, Z87",0.0,0.0,0.5
+excessive sweating,R61,"R25.0, R25.2",0.0,0.0,1.0
+spells of profuse sweating,R61,"R11.0, R11.1",0.0,0.0,1.0
+difficulties in falling asleep,G47.00,"G47.3, Z75.5",0.0,0.0,1.0
+struggles with insomnia,G47.00,G47.0,0.0,0.0,1.0
+difficulties  maintaining restful sleep,G47.00,"G47.3, Z76.5",0.0,0.5,1.0
+struggles maintaining peaceful sleep,G47.00,G47.3,0.0,0.5,1.0
+dizziness,R42,G04.0,0.0,0.0,1.0
+lighthededness,R42,R22.3,0.0,0.0,1.0
+vertigo,H81.09,G05.1,0.0,0.0,1.0
+spining sensation,H81.09,R43.1,0.0,0.0,1.0
+temporomandibular joint problems,M26.609,"K07.0, K07.1",0.0,1.0,1.0
+temporomandibular joint issues,M26.609,"K07.0, K07.1",0.0,1.0,1.0
+difficulty in opening or closing the mouth completely,M26.609,G52.4,0.0,1.0,1.0
+challenges in fully opening or closing the mout,M26.609,G52.4,0.0,1.0,1.0
+pain when speaking,R68.84,R52,0.0,0.0,0.0
+discomfort during talking,R68.84,"Z79, N52",0.0,0.0,0.0
+pain when chewing,R68.84,"K02.0, K10.4",0.0,0.0,1.0
+discomfort during chewing,R68.84,K02,0.0,0.0,0.0
+anxiety,"F41.0,R06.0","F41.2, F41.3, F41.9, F41.1, F41.0",0.5,0.0,1.0
+apprehension,"F41.0,R06.0",,0.0,0.0,0.0
+panic,"F41.0,R06.0",,0.0,0.0,0.0
+distress,"F41.0,R06.0","J81.8, J81.0, F43.9, J80.8, F43.1, F45.9, F46.9, F43.8, F40, F47.9, F48.1, F44.0, F42.0, F48.9, J80.2, F44.1, F47.0, F41.1, F41.0, J80.3, J82.0, F44.9, F46.1, J81.9, F46.0, F47.1, F45.0, J80.9, J82, J80.1, F45.1, F41.9, J81.1, F42.1, F42.9, F48.0, J80.0",0.5,0.0,0.9459459459459459
+changes in heart rate,"R00.0,R00.8","I45.9, I47.0",0.0,0.0,1.0
+variations in heart,"R00.0,R00.8","I51, I35.0, I35, I48, I39",0.0,0.0,0.2
+changes in blood pressure,I95.1,"I13, I12, I15, I10, I25, I11",0.0,0.5,0.0
+variations in blood pressure,I95.1,"I12, I11, I10",0.0,0.5,0.0
+tachycardia,"R00.0,R00.8","I48.5, I47, G46",0.0,0.25,0.3333333333333333
+rapid heartbeat,"R00.0,R00.8","I45.9, I47",0.0,0.25,0.5
+postural hypotension.,I95.1,R52.0,0.0,0.0,1.0
+orthostatic hypotension.,I95.1,R53.8,0.0,0.0,1.0
+changes in taste sensitivity,R43.2,R54,0.0,0.0,0.0
+alterations in taste sensitivity,R43.2,R10.4,0.0,0.0,1.0
+decreased taste perception,R43.2,R45,0.0,0.0,0.0
+diminished taste awareness,R43.2,"Z03.3, R54",0.0,0.0,0.5
+hyporeflexia,R29.2,G81.2,0.0,0.0,1.0
+reduced reflex responses,R29.2,M47,0.0,0.0,0.0
+nasal congestion,R09.81,"K01.9, R45",0.0,0.0,0.5
+nasal blockage,R09.81,"R41.3, R05.0",0.0,0.0,1.0
+frequent sneezing,R06.7,"Z00, R45",0.0,0.0,0.0
+sneezing,R06.7,"R00.2, K21.0, R00.5, R00.6, K21.6, R00.4, K21.3, K21.2, R00.8, K21.5, R00.3, R00.1, K21.8, R00.0, R00.9, R05, K21.1, R00.7, K21.4, K21.9",0.0,0.0,0.95
+constant fatigue,R53.82,Z72.5,0.0,0.0,1.0
+continual tiredness,R53.82,,0.0,0.0,0.0
+unexplained weight gain,R63.5,"E72.6, E67.4, Z92.2",0.0,0.0,1.0
+inexplicable increase in weight,R63.5,E66.0,0.0,0.0,1.0
+dry skin,L85.3,"E04.9, L25.0, X41.9",0.0,0.0,1.0
+parched skin,L85.3,T40.1,0.0,0.0,1.0
+abdominal pain,"R10.0,R10.817,R10.819,R10.84,R10.9","R10.0, R10.1",0.2,0.0,1.0
+abdominal discomfort,"R10.0,R10.817,R10.819,R10.84,R10.9","R10.2, Z99",0.0,0.0,0.5
+heartburn,E87.20,"Z04.4, R12.0",0.0,0.0,1.0
+acid reflux,E87.20,,0.0,0.0,0.0
+nausea,R11.0,"Z92, R11.0",1.0,0.5,0.5
+queasiness,R11.0,R11.0,1.0,0.5,1.0
+sharp pain in the right knee,M25.561,M54,0.0,1.0,0.0
+acute discomfort in the right knee,M25.561,M54,0.0,1.0,0.0
+swelling,R60.9,,0.0,0.0,0.0
+inflammation,R60.9,,0.0,0.0,0.0

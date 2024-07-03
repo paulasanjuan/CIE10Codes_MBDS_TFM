@@ -1,0 +1,13 @@
+### Clinical Note:
+Pt presented today with ongoing muscle weakness and chronic fatigue. Complains of difficulty swallowing liquids and solids. Also reports episodes of dizziness and occasional fecal incontinence. No history of chest pain or respiratory issues. Recently, pt noticed involuntary muscle twitching and paresthesia in hands. Mild facial weakness observed on examination. Currently taking baclofen and gabapentin for symptom management.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"chronic fatigue","R53.82"
+"difficulty swallowing liquids and solids","R13.10"
+"dizziness","R42"
+"fecal incontinence","R15"
+"involuntary muscle twitching","R25.3"
+"paresthesia in hands","R20.2"
+"facial weakness","R29.810"

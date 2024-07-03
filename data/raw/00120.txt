@@ -1,0 +1,15 @@
+### Clinical Note:
+Pt presents with increasing muscle weakness and intermittent paresthesias in lower extremities. Reports dysarthria and occasional choking episodes during meals. Has experienced orthostatic hypotension, resulting in dizziness upon standing. Sleep disturbances due to chronic respiratory failure were also noted. Pt also mentions unexplained chest pain and persistent anxiety. Overall mobility has decreased, with noted gait abnormalities. Currently taking baclofen and gabapentin for symptom relief.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"paresthesias in lower extremities","R20.2"
+"dysarthria","R47.1"
+"choking episodes during meals","R13.1"
+"orthostatic hypotension","I95.1"
+"dizziness upon standing","R42"
+"chronic respiratory failure","J96.1"
+"chest pain","R07.9"
+"persistent anxiety","F41.9"
+"gait abnormalities","R26.0"

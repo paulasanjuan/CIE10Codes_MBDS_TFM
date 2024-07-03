@@ -1,0 +1,14 @@
+### Clinical Note:
+Patient reports experiencing significant difficulty with coordination, particularly while walking, leading to frequent falls. Has developed a noticeable fasciculation in the left arm, which has been progressively worsening over the past three months. Complains of shortness of breath even during minimal exertion and has episodes of chest pain, particularly when taking deep breaths. There is a history of depressive episodes and the patient currently exhibits signs of severe anxiety. Additionally, the patient suffers from chronic respiratory failure and requires assistance with mobility. Family members report changes in speech fluency, causing difficulty in communication.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"difficulty with coordination, particularly while walking","R26.0"
+"fasciculation in the left arm","R25.3"
+"shortness of breath","R06.00"
+"episodes of chest pain, particularly when taking deep breaths","R07.1"
+"depressive episodes","F32"
+"severe anxiety","F41.9"
+"chronic respiratory failure","J96.1"
+"requires assistance with mobility","Z74.0"
+"changes in speech fluency, causing difficulty in communication","R47.82"

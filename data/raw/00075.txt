@@ -1,0 +1,13 @@
+### Clinical Note:
+
+Pt reports persistent shortness of breath and dyspnea, worse at night. Has been experiencing muscle fasciculations and occasional muscle spasms. There is a hx of chronic respiratory issues, now on home oxygen. Noted difficulty in swallowing, often choking on liquids. Family history of neurodegenerative diseases, but pt denies anxiety or depressive episodes. Fatigue has been a major issue, described as chronic and debilitating. Reports numbness and tingling in extremities, particularly in hands and feet.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath and dyspnea","R06.00"
+"muscle fasciculations","R25.3"
+"muscle spasms","R25.2"
+"difficulty in swallowing, often choking on liquids","R13.1"
+"chronic respiratory issues","J96.1"
+"Fatigue has been a major issue, described as chronic","R53.83"
+"numbness and tingling in extremities","R20.2"

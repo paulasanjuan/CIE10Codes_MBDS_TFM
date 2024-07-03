@@ -1,0 +1,16 @@
+### Clinical Note:
+Patient arrived with complain of sever shortness of breath and occasional chest pain. Noticed generalized muscle weakness and some difficulty with speaking. Reports dizziness and a bit of facial weakness, especially on left side. Has episodes of sleep disturbances. No recent urinary incontinence but experiences frequent cramps and spasms in legs. Patient also shows signs of depression and anxiety, which have been managed with medications. Requires assistance due to reduced mobility and uses a wheelchair occasionally.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.00"
+"chest pain","R07.9"
+"generalized muscle weakness","M62.81"
+"difficulty with speaking","R47.81"
+"dizziness","R42"
+"facial weakness","R29.810"
+"sleep disturbances","G47"
+"cramps and spasms","R25.2"
+"depression and anxiety","F41.9"
+"reduced mobility","Z74.0"
+"uses a wheelchair","Z99.3"

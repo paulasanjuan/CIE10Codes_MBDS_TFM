@@ -1,0 +1,16 @@
+### Clinical Note:
+Pt. p/w c/o chest pain on breathing and SOB, esp. during night. Noticed frequent nystagmus and facial paralysis over the past few weeks. Difficulty in swallowing, suspecting dysphagia. Experiences occasional dizziness and syncope. Reports depression and anxiety lately. Muscle weakness is becoming more prominent, impacting daily activities. Needs assistance with mobility and uses a wheelchair for longer distances. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chest pain on breathing","R07.1"
+"SOB, esp. during night","R06.00"
+"nystagmus","H55"
+"facial paralysis","G51.0"
+"difficulty in swallowing, suspecting dysphagia","R13.1"
+"dizziness and syncope","R42"
+"depression","F32"
+"anxiety","F41"
+"muscle weakness","M62.8"
+"needs assistance with mobility","Z74.0"
+"uses a wheelchair for longer distances","Z99.3"

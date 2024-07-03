@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt c/o muscle wkns and difficulty in speaking. Reports frequent cramps and spams in legs, and sometimes exp brthng difficulties esp during the night. Pt also has issues with urinary incontinence and occnl dizzy spells. Family hx of neurodegenerative diseases. Pt states feeling low and anxious, affecting his sleep. Regular follow-up needed to monitor symptoms and adjust treatment.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle wkns","M62.81"
+"difficulty in speaking","R47.81"
+"cramps and spams in legs","R25.2"
+"brthng difficulties","R06.02"
+"urinary incontinence","R32"
+"anxious, affecting his sleep","F41.9"
+"occnl dizzy spells","R42"

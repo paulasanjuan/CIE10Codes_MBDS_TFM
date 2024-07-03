@@ -1,0 +1,14 @@
+### Clinical Note:
+Pt reports ongoing difficulty in breathing and shortness of breath during physical activities. There's been a notable increase in muscle weakness, especially in the limbs. Also complains of frequent spasms and involuntary movements. During the examination, dysarthria was observed, affecting pt's ability to communicate clearly. Pt also mentioned episodes of dizziness and orthostatic hypotension. Additionally, the pt has experienced chronic respiratory failure and requires assistance for mobility. Pt's emotional state is impacted, with signs of anxiety and panic attacks.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"difficulty in breathing and shortness of breath","R06.02"
+"muscle weakness","M62.81"
+"frequent spasms and involuntary movements","R25.2"
+"dysarthria","R47.1"
+"dizziness","R42"
+"orthostatic hypotension","I95.1"
+"chronic respiratory failure","J96.1"
+"requires assistance for mobility","Z74.0"
+"anxiety and panic attacks","F41.0"

@@ -1,0 +1,13 @@
+### Clinical Note:
+Pt presents with severe muscle weakness and recurring fasciculations, especially in the legs. Reports feeling breathless (SOB) even during minimal exertion and has had trouble sleeping due to insomnia. Also noted difficulty with coordination, leading to frequent falls. Dysarthria has been progressively getting worse, impacting speech clarity. Additionally, pt has experienced episodes of dizziness and occasional orthostatic hypotension. The spouse mentioned increased irritability and stress in recent months. No complaints of chest pain or urinary issues at this time.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"recurring fasciculations","R25.3"
+"breathless (SOB)","R06.00"
+"trouble sleeping due to insomnia","G47.0"
+"difficulty with coordination","R27.8"
+"Dysarthria","R47.1"
+"dizziness","R42"
+"orthostatic hypotension","I95.1"

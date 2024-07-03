@@ -1,0 +1,13 @@
+### Clinical Note:
+Patient seen today with c/o SOB and feeling fatigued. Has had trouble with coordination and noticed some nystagmus recently. Pt also reports frequent muscle fasciculations and cramps, making it hard to sleep. No issues with incontinence or dizziness. Speech slightly slurred but intelligible. New onset orthostatic hypotension observed during the visit. Labs pending, will follow up with results. Pt advised to continue PT and OT, and to keep a symptom diary.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"SOB","R06.0"
+"feeling fatigued","R53.83"
+"trouble with coordination","R27.0"
+"some nystagmus","H55.8"
+"muscle fasciculations","R25.3"
+"cramps","R25.2"
+"Speech slightly slurred","R47.81"
+"orthostatic hypotension","I95.1"

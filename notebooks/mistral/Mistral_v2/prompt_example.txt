@@ -1,0 +1,105 @@
+## List of ICD-10 Codes Relevant for ALS
+	
+Here's the alphabetically ordered list of the given codes:
+
+Here's the alphabetically ordered list with the code and description separated by ":":
+
+- F32: Depressive episode
+- F32.8: Other depressive episodes
+- F32.A: Depression, unspecified
+- F41: Other anxiety disorders
+- F41.0: Panic disorder
+- F41.9: Unspecified anxiety disorder
+- G47: Sleep disorders
+- G47.0: Insomnia
+- G51.0: Facial paralysis
+- H55: Nystagmus and other irregular eye movements
+- H55.8: Other irregular eye movements
+- H81: Disorders of vestibular function
+- I95.1: Orthostatic hypotension
+- J96.1: Chronic respiratory failure
+- J96.9: Respiratory failure, unspecified
+- M62.8: Muscle weakness
+- M62.81: Muscle weakness (generalized)
+- N39.4: Other specified urinary incontinence types
+- N39.42: Incontinence without sensory perception
+- N39.46: Mixed incontinence
+- R00.0: Tachycardia, unspecified
+- R00.8: Other cardiac arrhythmias
+- R06.0: Shortness of breath
+- R06.00: Unspecified dyspnea
+- R06.02: Breathing difficulty
+- R07: Throat and chest pain
+- R07.1: Chest pain on breathing
+- R07.8: Other chest pain types
+- R07.9: Unspecified chest pain
+- R13.1: Dysphagia
+- R13.10: Unspecified dysphagia
+- R15: Fecal incontinence
+- R17: Hyperbilirubinaemia with mention of jaundice, not elsewhere classified
+- R20.0: Cutaneous anesthesia, numbness
+- R20.2: Paresthesias, tingling
+- R20.3: Hyperesthesia
+- R20.8: Other cutaneous sensory disturbances
+- R25: Involuntary abnormal movements
+- R25.0: Head movements
+- R25.2: Cramps and spasms
+- R25.3: Fasciculation
+- R25.8: Other involuntary abnormal movements
+- R25.9: Unspecified involuntary abnormal movements
+- R26: Gait and mobility disorders
+- R26.0: Ataxic gait
+- R27: Other disorders of motor coordination
+- R27.0: Ataxia, unspecified
+- R27.8: Other disorders of motor coordination
+- R27.9: Unspecified motor coordination disorder
+- R29.2: Abnormal reflexes
+- R29.810: Facial weakness
+- R29.898: Other symptoms and signs affecting musculoskeletal system
+- R29.9: Unspecified symptoms and signs affecting nervous and musculoskeletal systems
+- R32: Unspecified urinary incontinence
+- R41: Other amnesia
+- R41.3: Other amnesia
+- R41.840: Attention and concentration deficit
+- R42: Dizziness and syncope
+- R43.2: Parageusia
+- R45.7: State of emotional shock and stress, unspecified
+- R47.1: Dysarthria and anarthria
+- R47.8: Other speech disorders
+- R47.81: Difficulty in speaking
+- R47.82: Speech fluency disorder in conditions classified elsewhere
+- R47.89: Other speech disorders
+- R47.9: Unspecified speech disorders
+- R49: Voice and resonance disorders
+- R49.0: Dysphonia, hoarseness
+- R49.1: Aphonia
+- R53.1: Asthenia (Weakness)
+- R53.82: Chronic fatigue, unspecified
+- R53.83: Other types of fatigue
+- R61: Generalized hyperhidrosis
+- Z74.0: Need for assistance due to reduced mobility
+- Z99.3: Dependence on wheelchair
+	
+## Task Description
+	
+Your task is to create a small realistic clinical note for a patient diagnosed with Amyotrophic Lateral Sclerosis (ALS). The note should include various clinical elements such as diagnostics, medications, and observations. It doesn't have to contain all types of concepts, maybe the note is only about a diagnostic.
+
+The note can contain zero, one or multiple concepts that are codifiable by the aforementioned ICD-10 codes. Most likely the note also includes concepts that are unrelated to ALS. By realistic, I mean that the note can contain few spelling mistakes, can lack overall structure and contain abbreviations and medical jargons. The note should be quite short, one or two paragraphs maximum.
+	
+Additionally, you should generate a table accompanying the note. Each row in the table should represent a concept related to ALS, featuring a text excerpt from the note in one column and the corresponding ICD-10 code in the other column. Columns names are "Text" and "ICD10". This table should only include ICD-10 codes mentioned in the note. If there are no relevant rows, the table should be empty. This table should be returned in CSV format with quotations mark around the text except. Don't invent any ICD-10 codes, only use the codes you see above.
+
+To help you here is an example of what you should return. Please return something in the same format, that is clinical note than table. However the content should be completely different and should satisfy the above requirements. Remember this is just an example to give you the format, pay very close attention to the requirements.
+
+## Example
+
+### Clinical Note:
+Patient presented with persistent muscle weakness and generalized fatigue, noted over the last few months. Complains of frequent muscle cramps and has experienced increasing difficulty in speaking, leading to anarthria. No signs of involuntary movements or facial weakness. Reports dysphagia, predominantly with solids, which has progressively worsened. The patient's motor coordination is also affected, with noted ataxia. Currently on Riluzole and Nuedexta to manage symptoms.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"generalized fatigue","R53.83"
+"muscle cramps","R25.2"
+"difficulty in speaking, anarthria","R47.1"
+"dysphagia","R13.1"
+"motor coordination...ataxia","R27.0"

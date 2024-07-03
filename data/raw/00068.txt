@@ -1,0 +1,16 @@
+### Clinical Note:
+
+Pt reports increased SOB, esp. at night, and has noted trouble sleeping. Wife mentions he has diff breathing while lying down. Complains of musle weakness, esp. in the legs, and some cramping in hands. Experiencing diff swallowing, mostly liquids. Recently started using a walker due to unstable gait. Reports occasional dizzy spells. No hx of chest pain or cardiac issues. Mild urinary incontinence noted, but no other urinary symptoms. Currently on Baclofen and uses BiPAP at night.
+
+### ICD-10 Coding Table:
+
+"Text","ICD10"
+"increased SOB","R06.0"
+"trouble sleeping","G47"
+"diff breathing while lying down","R06.02"
+"musle weakness","M62.81"
+"cramping in hands","R25.2"
+"diff swallowing, mostly liquids","R13.10"
+"unstable gait","R26.0"
+"occasional dizzy spells","R42"
+"urinary incontinence","R32"

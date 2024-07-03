@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt came in c/o increased SOB and chest pain, often on exertion. Reports difficulty swallowing, especially liquids, and recent onset of persistent muscle twitches in both legs. Observed nystagmus during the exam. Pt also mentioned episodes of dizziness and fatigue, attributing it to poor sleep. No orthostatic hypotension was noted. Prescribed a CPAP machine to assist with sleep apnea. Will follow up in 3 months to reassess symptoms and adjust medications if necessary.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"increased SOB","R06.00"
+"chest pain","R07.9"
+"difficulty swallowing, especially liquids","R13.10"
+"persistent muscle twitches in both legs","R25.3"
+"nystagmus","H55.0"
+"episodes of dizziness","R42"
+"fatigue","R53.83"

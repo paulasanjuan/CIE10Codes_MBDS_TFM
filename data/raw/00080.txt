@@ -1,0 +1,16 @@
+### Clinical Note:
+Pt. arrived c/o severe muscle weakness in limbs, difficulty breathing, and speech difficulties. His spouse also mentioned he's been having panic attacks and dizziness. There has been a progressive loss of muscle strength, leading to significant fatigue. Sleep disturbances are frequent, and he's been experiencing chronic shortness of breath. Additionally, he has bouts of fecal incontinence, adding to his distress. Coordination issues, specifically ataxia, have been observed. Currently on multiple meds, incl. antidepressants.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"difficulty breathing","R06.02"
+"speech difficulties","R47.1"
+"panic attacks","F41.0"
+"dizziness","R42"
+"loss of muscle strength","M62.8"
+"significant fatigue","R53.83"
+"sleep disturbances","G47"
+"shortness of breath","R06.00"
+"fecal incontinence","R15"
+"coordination issues, specifically ataxia","R26.0"

@@ -1,0 +1,11 @@
+### Clinical Note:
+Patient c/o frequent dizziness and difficulty swallowing. Reports intermittent shortness of breath, especially during exertion, which has been getting worse. Muscle weakness noted, primarily in the arms. Speech is slurred at times, with noticeable difficulty in articulation. Pt also mentioned occasional episodes of chest pain and a persistent state of fatigue. No signs of facial paralysis or significant cardiac arrhythmias. Also has a history of depression, currently managed with medication.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"difficulty swallowing","R13.1"
+"shortness of breath","R06.0"
+"Muscle weakness","M62.81"
+"Speech is slurred...difficulty in articulation","R47.81"
+"episodes of chest pain","R07.9"
+"state of fatigue","R53.83"

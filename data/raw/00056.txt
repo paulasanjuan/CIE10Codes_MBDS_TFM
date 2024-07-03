@@ -1,0 +1,17 @@
+### Clinical Note:
+Pt. presents w/ chronic muscle weakness and difficulty in swallowing. Recently experiencing panic attacks and anxiety. Reports occasional shortness of breath, especially at night. Also mentions issues with urinary incontinence and generalized fatigue. Difficulty with coordination and involuntary movements noted. Sleep patterns disturbed, leading to insomnia. On physical exam, noted mild fasciculations and hyperesthesia in the limbs.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic muscle weakness","M62.81"
+"difficulty in swallowing","R13.10"
+"panic attacks","F41.0"
+"anxiety","F41.9"
+"shortness of breath","R06.00"
+"urinary incontinence","R32"
+"generalized fatigue","R53.83"
+"difficulty with coordination","R27.8"
+"involuntary movements","R25.9"
+"insomnia","G47.0"
+"mild fasciculations","R25.3"
+"hyperesthesia in the limbs","R20.3"

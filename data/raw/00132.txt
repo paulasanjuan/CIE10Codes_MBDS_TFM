@@ -1,0 +1,13 @@
+### Clinical Note:
+Pt c/o chronic fatigue and chest pain on breathing. Reports having frequent muscle twitches and spasms in the legs, particularly at night. Has a history of panic attacks and insomnia which seems to be worsening. Pt also experiencing numbness and tingling in the hands and feet. Last week, pt had a sudden episode of dizziness followed by a brief period of confusion and amnesia. On examination, there is evidence of muscle weakness and some difficulty with balance and coordination. Rx includes Gabapentin for nerve pain and Lorazepam for anxiety. Pt advised to follow up with neurology for further assessment.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic fatigue","R53.82"
+"chest pain on breathing","R07.1"
+"muscle twitches and spasms","R25.2"
+"panic attacks","F41.0"
+"insomnia","G47.0"
+"numbness and tingling","R20.2"
+"evidence of muscle weakness","M62.81"
+"difficulty with balance and coordination","R27.8"

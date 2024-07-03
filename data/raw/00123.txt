@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt presents with chronic resp failure, c/o difficulty breathing at night. States that he has trouble sleeping, often waking up in the middle of the night. Reports numbness in the hands and frequent cramps. Muscle weakness is also noted, making it hard for him to carry out daily activities. Occasionally, pt experiences dizziness when standing up quickly. He is on BiPAP therapy for respiratory support and takes medication for anxiety and depression. Reports feeling very fatigued, even after minimal activity. No signs of fecal incontinence or severe chest pain noted.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic resp failure","J96.1"
+"trouble sleeping","G47.0"
+"numbness in the hands","R20.0"
+"frequent cramps","R25.2"
+"Muscle weakness","M62.81"
+"dizziness when standing up quickly","I95.1"
+"feeling very fatigued","R53.83"

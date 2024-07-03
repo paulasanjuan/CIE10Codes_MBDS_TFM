@@ -1,0 +1,11 @@
+### Clinical Note:
+The pt has been experiencing severe muscle wkness and intermittent cramps for the past 6 months. There is also a complaint of difficulty in swallowing, primarily with liquids. Speech has become slurred and sometimes hard to understand. The pt reports frequent episodes of dizziness and occassional fainting. There are no signs of abnormal eye movements or vestibular disorders. The pt also mentions experiencing chronic respiratory issues, leading to occasional shortness of breath.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"severe muscle wkness","M62.81"
+"intermittent cramps","R25.2"
+"difficulty in swallowing, primarily with liquids","R13.10"
+"Speech has become slurred","R47.1"
+"frequent episodes of dizziness and occassional fainting","R42"
+"chronic respiratory issues","J96.1"

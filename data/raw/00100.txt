@@ -1,0 +1,13 @@
+### Clinical Note:
+Pt c/o persistent SOB and frequent episodes of chest pain, esp. during breathing. Pt also reports experiencing muscle weakness and has difficulty with mobility, noted a shuffling gait. Difficulty speaking clearly (dysarthria) has been observed by family. Paresthesias in extremities, with no noted orthostatic hypotension. Reports episodes of dizziness and generalized fatigue. Pt has history of panic disorder but denies current anxiety.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"persistent SOB","R06.00"
+"chest pain, esp. during breathing","R07.1"
+"muscle weakness","M62.81"
+"difficulty with mobility, shuffling gait","R26.0"
+"Difficulty speaking clearly (dysarthria)","R47.1"
+"Paresthesias in extremities","R20.2"
+"dizziness","R42"
+"generalized fatigue","R53.83"

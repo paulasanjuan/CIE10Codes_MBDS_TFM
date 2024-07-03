@@ -1,0 +1,11 @@
+### Clinical Note:
+Pt reports shortness of breath, esp. when lying flat, worse at night. Noted to have fasciculations in upper limbs, affecting sleep. Complains of dizziness and occasional syncope. Also mentioned recent episodes of severe anxiety and panic attacks. Muscle weakness is becoming more pronounced, esp. in the legs. Continues to have difficulty with fine motor tasks. Rx includes baclofen for spasticity. Pt also has a hx of orthostatic hypotension.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"fasciculations in upper limbs","R25.3"
+"shortness of breath","R06.0"
+"dizziness and occasional syncope","R42"
+"severe anxiety and panic attacks","F41.0"
+"Muscle weakness is becoming more pronounced","M62.81"
+"orthostatic hypotension","I95.1"

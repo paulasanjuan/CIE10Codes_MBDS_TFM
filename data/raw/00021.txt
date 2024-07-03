@@ -1,0 +1,12 @@
+### Clinical Note:
+Patient arrived with complaints of dizziness and intermittent shortness of breath. Muscle weakness, particularly in the arms, has been noted. She reports occasional facial weakness and speech difficulties, describing it as slurred speech. Insomnia has been a persistent issue, affecting her overall quality of life. Additionally, she mentions frequent cramps and spasms in her legs. Patient is also experiencing episodes of orthostatic hypotension. No issues with urinary incontinence were reported.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"Muscle weakness","M62.8"
+"facial weakness","R29.810"
+"speech difficulties, slurred speech","R47.81"
+"Insomnia","G47.0"
+"cramps and spasms","R25.2"
+"orthostatic hypotension","I95.1"

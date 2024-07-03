@@ -1,0 +1,14 @@
+### Clinical Note:
+
+Pt. presents with ongoing dysarthria and recent onset of facial weakness, making speech difficult. Reports episodes of shortness of breath and has had issues with insomnia over the past few months. Noted increasing muscle weakness, especially in the limbs. There's also a complaint of dizziness and occasional chest pain on breathing. Recent lab results are pending. Pt. also mentioned feeling more anxious lately but denies any panic attacks.
+
+### ICD-10 Coding Table:
+
+"Text","ICD10"
+"dysarthria","R47.1"
+"facial weakness","R29.810"
+"shortness of breath","R06.0"
+"insomnia","G47.0"
+"muscle weakness","M62.81"
+"dizziness","R42"
+"chest pain on breathing","R07.1"

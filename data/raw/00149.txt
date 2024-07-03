@@ -1,0 +1,13 @@
+### Clinical Note:
+The pt. has been feeling increased muscle weakness and persistent fatigue. Over the last few weeks, he’s had trouble sleeping due to cramps and spasms in his legs. He also reports difficulty speaking, often having to repeat himself multiple times. There is noticeable facial weakness and occasional dizziness. His wife mentioned that he's been very stressed lately, which might be contributing to his insomnia. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"increased muscle weakness","M62.81"
+"persistent fatigue","R53.83"
+"cramps and spasms in his legs","R25.2"
+"difficulty speaking","R47.81"
+"facial weakness","R29.810"
+"occasional dizziness","R42"
+"trouble sleeping","G47.0"
+"stressed lately","R45.7"

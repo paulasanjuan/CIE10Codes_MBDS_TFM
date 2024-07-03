@@ -1,0 +1,13 @@
+### Clinical Note:
+Patient complains of chronic respiratory issues, particularly experiencing SOB and unspecified dyspnea. Reports consistent muscle weakness and occasional muscle fasciculations. Has noted difficulties with speech, specifically dysarthria, and sometimes experiences dizziness and syncope. Patient also mentions episodes of generalized hyperhidrosis and cutaneous numbness, particularly in the extremities. Continues to have insomnia despite medication. Patient's spouse notes increased dependency on a wheelchair for mobility within the past year.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic respiratory issues...unspecified dyspnea","R06.00"
+"muscle weakness","M62.8"
+"muscle fasciculations","R25.3"
+"difficulties with speech, specifically dysarthria","R47.1"
+"dizziness and syncope","R42"
+"generalized hyperhidrosis","R61"
+"cutaneous numbness","R20.0"
+"increased dependency on a wheelchair for mobility","Z99.3"

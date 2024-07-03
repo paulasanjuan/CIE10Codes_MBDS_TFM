@@ -1,0 +1,15 @@
+### Clinical Note:
+Patient John Doe, 58 yo, presenting with chronic shortness of breath and generalized muscle weakness. Complains of difficulty swallowing, particularly liquids. Noticed frequent episodes of dizziness and orthostatic hypotension. Reports persistent fatigue and episodes of facial paralysis. Additionally, complains of involuntary muscle spasms, leading to disrupted sleep patterns. No evidence of chest pain or irregular eye movements. Patient experiences frequent urinary incontinence, particularly at night. History of depression and anxiety, managed with Sertraline. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"muscle weakness","M62.81"
+"difficulty swallowing, particularly liquids","R13.1"
+"dizziness","R42"
+"orthostatic hypotension","I95.1"
+"persistent fatigue","R53.83"
+"facial paralysis","G51.0"
+"involuntary muscle spasms","R25.2"
+"urinary incontinence","R32"
+"depression and anxiety","F32.8"

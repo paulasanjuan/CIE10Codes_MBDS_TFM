@@ -1,0 +1,16 @@
+### Clinical Note:
+Patient is a 58-year-old male presenting with chronic shortness of breath and muscle weakness over the past six months. Reports difficulty in swallowing and occasional dizziness, leading to frequent falls. He has noticed an increase in fatigue and experiences chest pain on exertion. There is also a history of insomnia and depressive episodes. The patient is wheelchair-dependent and requires assistance with daily activities. He also mentions persistent facial numbness and sporadic muscle spasms. Currently on a regimen including Riluzole and various supplements.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.00"
+"muscle weakness","M62.81"
+"difficulty in swallowing","R13.1"
+"dizziness","R42"
+"fatigue","R53.83"
+"chest pain on exertion","R07.1"
+"insomnia","G47.0"
+"depressive episodes","F32.8"
+"wheelchair-dependent","Z99.3"
+"facial numbness","R20.0"
+"muscle spasms","R25.2"

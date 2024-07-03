@@ -1,0 +1,14 @@
+### Clinical Note:
+Pt complains of shortness of breath and unexplained dizziness, making daily activities hard to perform. Frequent muscle cramps and twitches (fasciculations) in limbs have been reported, worsening at night. Speech is slurred, and pt experiences difficulty swallowing solids and liquids. Noticeable weight loss observed over the last 3 months. Pt also has trouble with fine motor skills and coordination, leading to several falls. Reports episodes of orthostatic hypotension. On ventilator support at night due to chronic respiratory failure. Emotional stress and anxiety due to worsening symptoms noted.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"unexplained dizziness","R42"
+"muscle cramps and twitches (fasciculations)","R25.3"
+"speech is slurred","R47.1"
+"difficulty swallowing solids and liquids","R13.1"
+"trouble with fine motor skills and coordination","R27.8"
+"episodes of orthostatic hypotension","I95.1"
+"chronic respiratory failure","J96.1"
+"Emotional stress and anxiety","R45.7"

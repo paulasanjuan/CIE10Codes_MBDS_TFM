@@ -1,0 +1,14 @@
+### Clinical Note:
+Patient came in complaining of chronic respiratory issues and has been experiencing significant muscle weakness. There's an ongoing difficulty with speech, mainly dysarthria, and frequent cramps in the legs. Noticed some problems with swallowing (dysphagia) especially with liquids. The patient also reports episodes of dizziness and occasionally experiences panic attacks. Mentioned feeling very fatigued most days and occasionally has facial weakness. No recent changes in urinary continence. Current medications include baclofen for muscle spasticity and sertraline for anxiety.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic respiratory issues","J96.1"
+"muscle weakness","M62.81"
+"difficulty with speech, mainly dysarthria","R47.1"
+"cramps in the legs","R25.2"
+"problems with swallowing (dysphagia)","R13.1"
+"episodes of dizziness","R42"
+"panic attacks","F41.0"
+"feeling very fatigued","R53.83"
+"facial weakness","R29.810"

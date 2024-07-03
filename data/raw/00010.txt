@@ -1,0 +1,16 @@
+### Clinical Note:
+
+Pt. presented with severe muscle cramps and fasiculations in the lower limbs. Complains of difficulty breathing (dyspnea) and frequent dizziness, particularly upon standing, suggestive of orthostatic hypotension. Reports generalized weakness and insomnia, making daily activities challenging. Notable speech difficulties, specifically dysarthria. Additionally, pt. mentions experiencing paresthesias in the hands and occasional nystagmus. No significant changes in urinary or bowel habits. Pt. is currently on a regime of baclofen and gabapentin for symptom management.
+
+### ICD-10 Coding Table:
+
+"Text","ICD10"
+"muscle cramps","R25.2"
+"fasiculations in the lower limbs","R25.3"
+"difficulty breathing (dyspnea)","R06.00"
+"frequent dizziness, particularly upon standing, suggestive of orthostatic hypotension","I95.1"
+"generalized weakness","M62.81"
+"insomnia","G47.0"
+"speech difficulties, specifically dysarthria","R47.1"
+"paresthesias in the hands","R20.2"
+"occasional nystagmus","H55.8"

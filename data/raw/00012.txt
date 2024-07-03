@@ -1,0 +1,11 @@
+### Clinical Note:
+Pt. reports feeling shortness of breath (SOB) and has been experiencing muscle weakness for several months. Difficulty sleeping due to muscle cramps and fasciculations at night. Also mentions episodes of dizziness and lightheadedness, especially when standing up too quickly. Speech has become more difficult, with episodes of dysarthria. Denies any new chest pain or palpitations. Mood has been low, with feelings of sadness and anxiety about the future. No new medications started recently.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"muscle weakness","M62.8"
+"muscle cramps","R25.2"
+"fasciculations","R25.3"
+"dizziness and lightheadedness","R42"
+"dysarthria","R47.1"

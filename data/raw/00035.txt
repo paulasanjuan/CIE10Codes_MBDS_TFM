@@ -1,0 +1,15 @@
+### Clinical Note:
+
+Pt. p/w difficulty speaking, slurred speech noted. Has been c/o generalized muscle weakness and significant shortness of breath on exertion. Reports trouble swallowing, mostly with liquids, and occasional choking episodes. Pt. also experiencing frequent muscle twitches and occasional spasms. Sleep has been disturbed with insomnia most nights. Anxiety levels high, pt. states feeling "stressed out all the time." No incontinence noted, but pt. reports dizziness and frequent falls. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"difficulty speaking, slurred speech","R47.81"
+"generalized muscle weakness","M62.81"
+"shortness of breath on exertion","R06.00"
+"trouble swallowing, mostly with liquids","R13.10"
+"frequent muscle twitches","R25.3"
+"occasional spasms","R25.2"
+"Sleep has been disturbed with insomnia","G47.0"
+"Anxiety levels high","F41.9"
+"dizziness and frequent falls","R42"

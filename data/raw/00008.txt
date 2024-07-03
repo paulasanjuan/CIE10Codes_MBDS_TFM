@@ -1,0 +1,14 @@
+### Clinical Note:
+Pt. complained of persistent numbness and tingling in limbs, along with cronic fatigue. He reports dyspnea and shortness of breath, esp. during night. Muscle fasciculations noted, primarily in the legs. Speech has become slurred, with pt. experiencing difficulty in articulating words. Urinary incontinence is also reported, mostly at night. Complains of episodes of chest pain, mainly on breathing. Currently on meds for anxiety, which seems to exacerbate some symptoms. Also mentioned bouts of dizziness, and facial weakness was observed during exam.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"numbness and tingling in limbs","R20.2"
+"cronic fatigue","R53.83"
+"dyspnea and shortness of breath","R06.00"
+"Muscle fasciculations noted","R25.3"
+"difficulty in articulating words","R47.81"
+"Urinary incontinence is also reported","R32"
+"episodes of chest pain, mainly on breathing","R07.1"
+"dizziness","R42"
+"facial weakness","R29.810"

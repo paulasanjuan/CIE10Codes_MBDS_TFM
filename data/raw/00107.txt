@@ -1,0 +1,14 @@
+### Clinical Note:
+Patient arrived with complaints of intermittent chest pain, difficulty breathing, and persistent dizziness. Reports muscle weakness in the legs and occasional facial paralysis. She also mentions trouble sleeping and chronic fatigue that has not improved with rest. There's a history of urinary incontinence without any sensory perception. The patient denies any recent episodes of anxiety or depression. Currently using a wheelchair due to reduced mobility.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chest pain","R07.9"
+"difficulty breathing","R06.00"
+"persistent dizziness","R42"
+"muscle weakness in the legs","M62.81"
+"occasional facial paralysis","G51.0"
+"trouble sleeping","G47.0"
+"chronic fatigue","R53.83"
+"urinary incontinence without any sensory perception","N39.42"
+"using a wheelchair due to reduced mobility","Z99.3"

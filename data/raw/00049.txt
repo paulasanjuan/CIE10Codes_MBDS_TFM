@@ -1,0 +1,15 @@
+### Clinical Note:
+Pt. complains of severe shortness of breath and intermittent chest pain. Has noted progressive muscle weakness and difficulty in swallowing, particularly with liquids. Experiencing frequent cramps and spasms in the legs. Reports difficulty with fine motor tasks and coordination issues. Pt. also mentions chronic respiratory failure and requires assistance for mobility. Sleep has been poor, with episodes of insomnia. Additionally, pt. reports occasional dizziness and feeling unsteady.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"chest pain","R07.9"
+"muscle weakness","M62.81"
+"difficulty in swallowing","R13.1"
+"cramps and spasms in the legs","R25.2"
+"motor tasks and coordination issues","R27.8"
+"chronic respiratory failure","J96.1"
+"assistance for mobility","Z74.0"
+"insomnia","G47.0"
+"occasional dizziness","R42"

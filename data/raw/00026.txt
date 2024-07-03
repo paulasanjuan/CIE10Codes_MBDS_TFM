@@ -1,0 +1,13 @@
+### Clinical Note:
+
+Patient seen today with ongoing difficulty in breathing and frequent dizziness. Noted facial weakness and occasional muscle twitching. Reports episodes of shortness of breath, especially at night, and some difficulty with swallowing liquids. Patient's mood appears low, possibly depressed. Also mentioned experiencing numbness in fingers and toes. Will monitor for any progression in symptoms. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"difficulty in breathing","R06.02"
+"frequent dizziness","R42"
+"facial weakness","R29.810"
+"muscle twitching","R25.3"
+"shortness of breath","R06.00"
+"difficulty with swallowing","R13.1"
+"numbness in fingers and toes","R20.0"

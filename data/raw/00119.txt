@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt. reports ongoing issues w/ muscle fasciculations and weakness, particularly in the lower limbs, over the last 6 mnths. Also complanes of intermittent dysarthria, making communication challenging. Noted increased reliance on caregiver assistance due to mobility probs and generalized fatigue. On exam, observed cutaneous anesthesia in the feet and mild paresthesias in the hands. No hx of orthostatic hypotension or any significant respiratory issues. Continues on current regimen w/ supportive care measures in place.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle fasciculations","R25.3"
+"muscle weakness","M62.81"
+"dysarthria","R47.1"
+"mobility probs","R26.0"
+"generalized fatigue","R53.83"
+"cutaneous anesthesia in the feet","R20.0"
+"paresthesias in the hands","R20.2"

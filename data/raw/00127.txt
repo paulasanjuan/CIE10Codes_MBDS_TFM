@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt reports increasing diff in speech over the past 3 months, w/ episodes of dysarthria. Noted weakness in arms and legs, especially during routine activities. Complains of intermittent fasciculations and muscle spasms, primarily in the lower extremities. Sleep has been disturbed due to breathing difficulties and experiences episodes of tachycardia at night. Also reported episodes of dizziness and syncope, which have been more frequent. Patient has also been feeling quite depressed lately, but denies any panic attacks or anxiety episodes.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"diff in speech...dysarthria","R47.1"
+"weakness in arms and legs","M62.81"
+"fasciculations and muscle spasms","R25.3"
+"breathing difficulties","J96.9"
+"tachycardia at night","R00.0"
+"dizziness and syncope","R42"
+"depressed lately","F32"

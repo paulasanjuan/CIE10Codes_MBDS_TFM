@@ -1,0 +1,14 @@
+### Clinical Note:
+The pt. reports significant shortness of breath (SOB) and dizziness on standing, leading to a few falls at home. Has been experiencing persistent muscle weakness and cramps, especially in the legs. Speech is slurred, and the pt. sometimes finds it hard to swallow, often choking on liquids. There is also a complaint of facial weakness, especially noticeable on the left side. Additionally, the pt. mentions episodes of chest pain, although these are infrequent. Sleep has been disturbed with frequent awakenings and some difficulty in falling back to sleep. No reported issues with urinary incontinence.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath (SOB)","R06.0"
+"dizziness on standing","R42"
+"persistent muscle weakness","M62.81"
+"cramps, especially in the legs","R25.2"
+"Speech is slurred","R47.81"
+"hard to swallow, often choking on liquids","R13.10"
+"complaint of facial weakness","R29.810"
+"chest pain","R07.9"
+"Sleep has been disturbed","G47"

@@ -1,0 +1,15 @@
+### Clinical Note:
+Pt c/o muscle weakness (generalized) and issues with insomnia. Complains of frequent spasms, particularly at night. Speech has been slurred at times, causing significant difficulty in communication. Pt has also been experiencing orthostatic hypotension, leading to dizziness and occasional syncope. Noticed increased paresthesia in limbs and trouble with balance, which seems like ataxic gait. Reports fecal incontinence and requires assistance for mobility. No recent trauma or significant new events. Continues current meds with no changes.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness (generalized)","M62.81"
+"insomnia","G47.0"
+"spasms","R25.2"
+"slurred speech","R47.8"
+"orthostatic hypotension","I95.1"
+"dizziness and occasional syncope","R42"
+"paresthesia in limbs","R20.2"
+"ataxic gait","R26.0"
+"fecal incontinence","R15"
+"requires assistance for mobility","Z74.0"

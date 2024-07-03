@@ -1,0 +1,16 @@
+### Clinical Note:
+Pt presents with issues of muscle weakness and trouble swallowing. Complains of frequent twitching in the limbs and occasional shortness of breath. Difficulty in coordination, and sometimes needs help with walking. Reports having more trouble sleeping lately, often waking up multiple times at night. Also mentions periods of dizziness and spells of chest pain. No signs of urinary incontinence. Pt is feeling stressed due to these symptoms and is experiencing anxiety. Pt's mood is low, and there are signs of depression.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.8"
+"trouble swallowing","R13.1"
+"twitching in the limbs","R25.3"
+"shortness of breath","R06.00"
+"Difficulty in coordination","R27.9"
+"trouble sleeping","G47.0"
+"dizziness","R42"
+"spells of chest pain","R07.9"
+"feeling stressed","R45.7"
+"anxiety","F41.9"
+"signs of depression","F32.A"

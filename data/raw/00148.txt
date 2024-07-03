@@ -1,0 +1,15 @@
+### Clinical Note:
+
+Pt. reports new onset of insomnia and persistent fatigue, noting it's difficult to stay awake during the day. C/o dysphagia, especially with liquids, and occasional fasciculations in the arms and legs. Noted muscle weakness (generalized) and has episodes of chest pain on breathing. Observed increased difficulty in coordination, particularly with walking, leading to a recent fall. Also mentioned occasional facial paralysis. Pt. is on supportive therapy, but symptoms persist. Need for assistance with daily activities due to reduced mobility.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"insomnia","G47.0"
+"fatigue","R53.83"
+"dysphagia, especially with liquids","R13.10"
+"fasciculations in the arms and legs","R25.3"
+"muscle weakness (generalized)","M62.81"
+"chest pain on breathing","R07.1"
+"difficulty in coordination, particularly with walking","R26.0"
+"facial paralysis","G51.0"
+"need for assistance with daily activities due to reduced mobility","Z74.0"

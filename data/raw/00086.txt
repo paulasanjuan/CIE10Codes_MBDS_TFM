@@ -1,0 +1,15 @@
+### Clinical Note:
+Pt presents w/ chronic respiratory failure, often experiencing SOB and difficulty in speaking. Reports frequent paresthesias and tingling in the limbs, alongside general muscle weakness. Pt's wife mentions episodes of dizziness and has noticed involuntary abnormal movements. Ongoing depression has also been noted, along with periods of unexplained chest pain. Currently on meds to manage symptoms, but effectiveness varies. Pt requires assistance due to reduced mobility and uses a wheelchair regularly.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic respiratory failure","J96.1"
+"SOB","R06.00"
+"difficulty in speaking","R47.81"
+"paresthesias and tingling","R20.2"
+"muscle weakness","M62.81"
+"dizziness","R42"
+"involuntary abnormal movements","R25.8"
+"depression","F32.A"
+"chest pain","R07.9"
+"reduced mobility and uses a wheelchair","Z74.0"

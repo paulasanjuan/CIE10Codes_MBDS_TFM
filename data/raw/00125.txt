@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt presents w/ c/o dizziness and frequent syncopal episodes. Also experiencing nystagmus and has noted significant paresthesias in the extremities, esp in the morning. Reports severe chest pain on breathing, which is concerning. Muscle weakness (generalized) noted upon examination. Additionally, the pt has difficulty speaking and often stutters during conversation. Pt is on multiple meds including antidepressants for ongoing depressive episodes.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"dizziness and frequent syncopal episodes","R42"
+"nystagmus","H55"
+"paresthesias in the extremities","R20.2"
+"severe chest pain on breathing","R07.1"
+"Muscle weakness (generalized)","M62.81"
+"difficulty speaking and often stutters","R47.81"
+"depressive episodes","F32"

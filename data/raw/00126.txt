@@ -1,0 +1,16 @@
+### Clinical Note:
+Pt c/o muscle wkness and fasciculations, mainly in upper limbs. Experiencing severe fatigue and trouble swallowing both liquids and solids (dysphagia). Reports episodes of dizziness and occasional orthostatic hypotension. Speech difficulties noted, with pt struggling to articulate words (dysarthria). Insomnia has also been problematic, leading to increased daytime sleepiness. On examination, there is evidence of paresthesias in both hands. Pt also mentions bouts of panic attacks and generalized anxiety.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle wkness","M62.81"
+"fasciculations","R25.3"
+"severe fatigue","R53.83"
+"trouble swallowing both liquids and solids (dysphagia)","R13.1"
+"episodes of dizziness","R42"
+"occasional orthostatic hypotension","I95.1"
+"struggling to articulate words (dysarthria)","R47.1"
+"Insomnia","G47.0"
+"paresthesias in both hands","R20.2"
+"panic attacks","F41.0"
+"generalized anxiety","F41.9"

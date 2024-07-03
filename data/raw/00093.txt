@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt. reports persistent shrt. of breath, esp. when climbing stairs, along w/ weakness in the legs. Has also been experiencing diff. in swallowing, mainly liquids, leading to occasional choking episodes. Mild facial weakness observed. No other invol. movements detected. Pt. also notes frequent insomnia and has been feeling increasingly anxious. Requires assistance for daily mobility and uses a wheelchair. Recommending continued use of BiPAP during night-time and physio to maintain muscle strength.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shrt. of breath","R06.0"
+"weakness in the legs","M62.81"
+"diff. in swallowing, mainly liquids","R13.1"
+"Mild facial weakness","R29.810"
+"frequent insomnia","G47.0"
+"feeling increasingly anxious","F41.9"
+"requires assistance for daily mobility and uses a wheelchair","Z99.3"

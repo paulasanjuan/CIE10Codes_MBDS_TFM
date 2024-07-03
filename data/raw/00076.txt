@@ -1,0 +1,11 @@
+### Clinical Note:
+Pt reports a persistent tingling sensation in limbs, esp. hands, and difficulty swallowing liquids, dx. with dysphagia. Complains of increased shortness of breath (dyspnea) during activities and episodic chest pain. Experiences episodes of involuntary muscle spasms and facial weakness. Recent visits to the ER due to panic attacks and anxiety. No issues with urinary incontinence but has noticed some dizziness on standing up quickly.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"tingling sensation in limbs","R20.2"
+"difficulty swallowing liquids, dx. with dysphagia","R13.1"
+"shortness of breath (dyspnea)","R06.00"
+"episodic chest pain","R07.8"
+"involuntary muscle spasms","R25.2"
+"facial weakness","R29.810"

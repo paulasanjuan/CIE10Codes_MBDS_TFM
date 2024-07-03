@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt c/o severe muscle weakness (esp legs) and freq spasms. Reports increased difficulty in speaking, esp with certain words, and occasional hoarseness. Also, pt mentions numbness and tingling in extremities, worsening over time. Pt experiences orthostatic hypotension, causing dizziness upon standing. Sleep disturbances reported, particularly insomnia. Continues to manage with Nuedexta and other symptomatic tx.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness (esp legs)","M62.81"
+"freq spasms","R25.2"
+"difficulty in speaking, esp with certain words","R47.81"
+"occasional hoarseness","R49.0"
+"numbness and tingling in extremities","R20.2"
+"orthostatic hypotension","I95.1"
+"Sleep disturbances...insomnia","G47.0"

@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt complains of chronic muscle wkness and severe fatigue, getting worse over the past few weeks. Pt also reports difficulty swallowing and a noticeable decline in speech clarity, often struggling with words. There's some facial paralysis, but no dizziness or involuntary movements observed. Breathing has become more difficult, esp. at night. Additionally, pt is experiencing some urinary incontinence without sensory awareness.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic muscle wkness","M62.81"
+"severe fatigue","R53.83"
+"difficulty swallowing","R13.10"
+"decline in speech clarity","R47.89"
+"facial paralysis","G51.0"
+"Breathing has become more difficult","R06.00"
+"urinary incontinence without sensory awareness","N39.42"

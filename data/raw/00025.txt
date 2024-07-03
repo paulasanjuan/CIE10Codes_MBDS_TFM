@@ -1,0 +1,12 @@
+### Clinical Note:
+Patient came in today complaining of chronic shortness of breath and chest pain on breathing. There is notable muscle weakness, esp. in the lower limbs, causing difficulties with mobility. Additionally, the patient reports experiencing frequent dizziness and fainting spells. Speech has become slurred over the past few weeks, and there's noticeable dysphonia. The patient also mentions having difficulty sleeping, despite trying multiple remedies. No signs of orthostatic hypotension or facial paralysis. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.00"
+"chest pain on breathing","R07.1"
+"muscle weakness, esp. in the lower limbs","M62.81"
+"dizziness and fainting spells","R42"
+"speech has become slurred","R47.81"
+"dysphonia","R49.0"
+"difficulty sleeping","G47.0"

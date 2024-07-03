@@ -1,0 +1,10 @@
+### Clinical Note:
+Pt. came in c/o severe muscle weakness and cramps, worsening over the past 6 months. Reports occasional dizziness and has trouble speaking clearly, leading to frequent frustration. She also noted some urinary incontinence but no issues with bowel movements. Difficulty sleeping due to leg cramps and occasional panic attacks. No facial weakness observed. On current medication including baclofen for muscle spasms and sertraline for depression.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness and cramps","M62.81"
+"difficulty speaking clearly","R47.81"
+"urinary incontinence","R32"
+"difficulty sleeping","G47.0"
+"panic attacks","F41.0"

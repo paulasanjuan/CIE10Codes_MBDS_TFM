@@ -1,0 +1,11 @@
+### Clinical Note:
+Pt c/o increasing difficulty with gait and frequent falls. Reports shortness of breath (dyspnea) and occasional chest pain. Experiencing muscle twitching and cramping in both legs, which has made it harder to walk. The pt also mentions issues with insomnia and facial weakness. Anxiety levels have been high, leading to panic attacks. Urinary incontinence has also been noted, which pt finds quite distressing.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"difficulty with gait","R26.0"
+"shortness of breath (dyspnea)","R06.00"
+"muscle twitching","R25.3"
+"muscle cramping","R25.2"
+"facial weakness","R29.810"
+"urinary incontinence","R32"

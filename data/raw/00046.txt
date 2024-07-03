@@ -1,0 +1,17 @@
+### Clinical Note:
+Pt presents w/ chronic respiratory failure, likely exacerbated by recent episodes of panic disorder. Complains of severe muscle weakness and frequent cramps and spasms. Reports difficulty breathing at times, particularly at night, and has been using a wheelchair for mobility. States episodes of dizziness and shortness of breath have increased in frequency. Additionally, pt reports generalized fatigue and requires assistance with daily activities due to reduced mobility. Pt has also experienced depressive episodes and insomnia.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic respiratory failure","J96.1"
+"panic disorder","F41.0"
+"muscle weakness","M62.81"
+"cramps and spasms","R25.2"
+"difficulty breathing","R06.02"
+"using a wheelchair for mobility","Z99.3"
+"dizziness","R42"
+"shortness of breath","R06.00"
+"generalized fatigue","R53.83"
+"requires assistance with daily activities due to reduced mobility","Z74.0"
+"depressive episodes","F32"
+"insomnia","G47.0"

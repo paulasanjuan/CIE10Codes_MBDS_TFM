@@ -1,0 +1,10 @@
+### Clinical Note:
+Pt. reports severe difficulty in breathing, esp. at night. Often wakes up due to SOB. Observed twitching muscles in the arms, and pt. complains of persistent tingling sensations in the fingers. Also, pt. has been experiencing trouble with balance and frequent falls. Recent episodes of chest pain, sometimes sharp, particularly when inhaling deeply. Currently on a regimen of Baclofen and gabapentin.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"difficulty in breathing","R06.00"
+"twitching muscles in the arms","R25.3"
+"tingling sensations in the fingers","R20.2"
+"trouble with balance and frequent falls","R26.0"
+"chest pain, sometimes sharp, particularly when inhaling deeply","R07.1"

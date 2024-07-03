@@ -1,0 +1,16 @@
+### Clinical Note:
+Pt presents with generalized muscle wkness and increased diff in breathing (dyspnea). Experiencing persistent insomnia and anxiety, affecting overall QOL. Noted numbness in extremities and occasional facial paralysis. Reports mixed urinary incontinence and chest pain on breathing. Pt also c/o involuntary head movements and cramps. Pt's dependence on a wheelchair is evident. Current meds include baclofen and tizanidine.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"generalized muscle wkness","M62.81"
+"diff in breathing (dyspnea)","R06.00"
+"insomnia","G47.0"
+"anxiety","F41.9"
+"numbness in extremities","R20.0"
+"occasional facial paralysis","G51.0"
+"mixed urinary incontinence","N39.46"
+"chest pain on breathing","R07.1"
+"involuntary head movements","R25.0"
+"cramps","R25.2"
+"dependence on a wheelchair","Z99.3"

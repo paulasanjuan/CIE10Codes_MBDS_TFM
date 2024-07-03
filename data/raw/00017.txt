@@ -1,0 +1,14 @@
+### Clinical Note:
+Pt presents with sig. weakness in the lower limbs and noted severe difficulty in breathing, which has become more prominent over the last month. Complains of persistent fatigue and occasional fasciculations in both arms. Reports shortness of breath even during mild exertion and recent episodes of orthostatic hypotension. Speech is slow and slurred, and pt is also experiencing dysphagia, mainly with liquids. Continues to use a wheelchair for mobility.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"weakness in the lower limbs","M62.81"
+"difficulty in breathing","R06.00"
+"persistent fatigue","R53.83"
+"fasciculations in both arms","R25.3"
+"shortness of breath even during mild exertion","R06.02"
+"orthostatic hypotension","I95.1"
+"Speech is slow and slurred","R47.81"
+"dysphagia, mainly with liquids","R13.1"
+"use a wheelchair for mobility","Z99.3"

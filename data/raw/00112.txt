@@ -1,0 +1,17 @@
+### Clinical Note:
+Pt presents w/ chronic resp. failure and has been using noninvasive vent at night. Reports freq. difficulty breathing and orthostatic hypotension. Hx of mixed urinary incontinence and facial weakness. Occasional episodes of severe dizziness and stress. Gait is ataxic, requires assistance w/ mobility. Noted recent wt loss and muscle spasms. Pt also reports difficulty sleeping, feeling depressed and anxious lately. On meds for sleep and depression.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic resp. failure","J96.1"
+"difficulty breathing","R06.02"
+"orthostatic hypotension","I95.1"
+"mixed urinary incontinence","N39.46"
+"facial weakness","R29.810"
+"dizziness","R42"
+"stress","R45.7"
+"ataxic gait","R26.0"
+"requires assistance w/ mobility","Z74.0"
+"muscle spasms","R25.2"
+"difficulty sleeping","G47.0"
+"feeling depressed and anxious","F41.9"

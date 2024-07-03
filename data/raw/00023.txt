@@ -1,0 +1,14 @@
+### Clinical Note:
+The pt reports experiencing frequent shortness of breath and cramping in the legs, especially during nighttime. Noted difficulty in swallowing both solids and liquids, causing significant weight loss. Pt's partner observed episodes of facial twitching and slurred speech, which have become more pronounced. There is also a history of chronic fatigue and dizziness. Currently using a wheelchair for mobility assistance due to increased muscle weakness. Pt denies any recent changes in bowel habits or urinary incontinence.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"cramping in the legs","R25.2"
+"difficulty in swallowing both solids and liquids","R13.10"
+"facial twitching","R25.3"
+"slurred speech","R47.81"
+"chronic fatigue","R53.82"
+"dizziness","R42"
+"wheelchair for mobility assistance","Z99.3"
+"increased muscle weakness","M62.81"

@@ -1,0 +1,15 @@
+### Clinical Note:
+Pt reports chronic SOB, esp at night. Complains of muscle cramps and fasciculations in legs. Experiences difficulty swallowing, mainly liquids, leading to frequent choking episodes. Speech has become slurred, making communication difficult. Noted some dizziness and has fallen twice in the past month. Observed involuntary hand movements and generalized fatigue. Continues to experience numbness and tingling in extremities. Pt states feeling more anxious lately, often unable to sleep.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic SOB","R06.00"
+"muscle cramps","R25.2"
+"fasciculations in legs","R25.3"
+"difficulty swallowing, mainly liquids","R13.1"
+"Speech has become slurred","R47.1"
+"some dizziness","R42"
+"generalized fatigue","R53.82"
+"numbness and tingling in extremities","R20.2"
+"unable to sleep","G47.0"
+"more anxious lately","F41.9"

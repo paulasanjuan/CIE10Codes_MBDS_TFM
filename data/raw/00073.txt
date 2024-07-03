@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt presents w/ c/o shortness of breath and trouble swallowing, getting worse over the past few weeks. Noticed occasional dizziness and has trouble walking, seems unsteady. Muscle weakness in legs, gets tired easily. Reports irregular eye movements, especially when looking to the sides. Also has chest pain on and off, but no specific pattern. Pt has a history of depression, feels low frequently.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.00"
+"trouble swallowing","R13.10"
+"occasional dizziness","R42"
+"trouble walking, seems unsteady","R26.0"
+"Muscle weakness in legs","M62.81"
+"irregular eye movements","H55.8"
+"chest pain on and off","R07.9"

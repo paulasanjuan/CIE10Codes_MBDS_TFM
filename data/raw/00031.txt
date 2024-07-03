@@ -1,0 +1,15 @@
+### Clinical Note:
+Pt reports progressive shortness of breath and muscle wkness over the last 6 months. Has difficulty with speech, sometimes slurring words. Episodes of dizziness and occasional falls due to unsteady gait. Reports frequent cramps and fasciculations in limbs. Complains of swallowing difficulties, particularly with liquids. Also notes chronic fatigue and occasional chest pain. Takes baclofen for muscle spasms and using a walker for mobility support.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle wkness","M62.81"
+"shortness of breath","R06.00"
+"difficulty with speech, sometimes slurring words","R47.81"
+"dizziness","R42"
+"unsteady gait","R26.0"
+"frequent cramps","R25.2"
+"fasciculations in limbs","R25.3"
+"swallowing difficulties, particularly with liquids","R13.10"
+"chronic fatigue","R53.82"
+"occasional chest pain","R07.9"

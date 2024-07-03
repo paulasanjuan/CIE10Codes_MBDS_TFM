@@ -1,0 +1,13 @@
+### Clinical Note:
+Pt complains of muscle weakness and occasional fasciculations, which have been progressively worsening. Also reports difficulty in swallowing and shortness of breath, especially at night. There have been episodes of dizziness and orthostatic hypotension. Pt is experiencing some generalized fatigue and has noticed some involuntary head movements. Currently using a wheelchair for mobility. On meds for anxiety and depression, which are secondary to the primary condition.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"occasional fasciculations","R25.3"
+"difficulty in swallowing","R13.1"
+"shortness of breath","R06.00"
+"dizziness and orthostatic hypotension","I95.1"
+"generalized fatigue","R53.83"
+"involuntary head movements","R25.0"
+"using a wheelchair for mobility","Z99.3"

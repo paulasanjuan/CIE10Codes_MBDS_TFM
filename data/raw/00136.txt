@@ -1,0 +1,14 @@
+### Clinical Note:
+The patient is a 58-yr-old male presenting w/ chronic resp failure and muscle weakness. Complains of sporadic dizziness and has trouble w/ speech, often described as dysarthric. Pt also reports sleep disturbances and difficulty swallowing, more so with liquids. On physical exam, notable for facial weakness and ataxic gait. Orthostatic hypotension was observed, requiring further eval. Family hx positive for neurodegenerative diseases.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic resp failure","J96.1"
+"muscle weakness","M62.81"
+"dizziness","R42"
+"dysarthric","R47.1"
+"sleep disturbances","G47"
+"difficulty swallowing","R13.1"
+"facial weakness","R29.810"
+"ataxic gait","R26.0"
+"orthostatic hypotension","I95.1"

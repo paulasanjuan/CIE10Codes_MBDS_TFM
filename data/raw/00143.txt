@@ -1,0 +1,12 @@
+### Clinical Note:
+Patient reports cronic weakness in limbs, often drops items. Noted facial weakness, makes it hard to smile or express emotions. Difficulty swallowing solids and liquids, sometimes causing choking. Complains of frequent dizziness and episodes of syncope, worsens on standing. Speech is slurred, makes communication frustrating. Severe muscle cramps and spasms, mostly at night. Experiencing significant emotional distress and anxiety due to these symptoms. Current meds include baclofen and gabapentin.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"cronic weakness in limbs","M62.81"
+"facial weakness","R29.810"
+"Difficulty swallowing solids and liquids, sometimes causing choking","R13.1"
+"frequent dizziness and episodes of syncope","R42"
+"Speech is slurred","R47.81"
+"Severe muscle cramps and spasms","R25.2"
+"significant emotional distress and anxiety","F41.9"

@@ -1,0 +1,14 @@
+### Clinical Note:
+Pt complains of severe muscle weakness and chronic respiratory problems. Frequently experiences shortness of breath and has recently developed facial weakness and difficulty swallowing. Reports dizziness and frequent falls due to coordination issues. Sleep has been poor, possibly due to insomnia. Also mentions occasional episodes of tachycardia. Pt is currently on a regimen including baclofen and gabapentin to help manage symptoms.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"chronic respiratory problems","J96.1"
+"shortness of breath","R06.00"
+"facial weakness","R29.810"
+"difficulty swallowing","R13.1"
+"dizziness","R42"
+"coordination issues","R27.9"
+"insomnia","G47.0"
+"tachycardia","R00.0"

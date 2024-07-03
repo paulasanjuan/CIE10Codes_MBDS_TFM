@@ -1,0 +1,11 @@
+### Clinical Note:
+Pt presents with slurred speech and severe difficulty in swallowing, especially liquids, over the past 3 months. Reports frequent episodes of shortness of breath and occasional muscle twitching. Pt also notes chronic fatigue and generalized weakness, which has impacted daily activities. Sleep has been disturbed due to frequent waking at night. Denies chest pain or dizziness. Currently, the pt is on Baclofen for muscle spasms and has been advised to use a wheelchair for mobility.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"slurred speech","R47.81"
+"difficulty in swallowing","R13.10"
+"shortness of breath","R06.00"
+"muscle twitching","R25.3"
+"chronic fatigue","R53.82"
+"generalized weakness","M62.81"

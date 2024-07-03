@@ -1,0 +1,13 @@
+### Clinical Note:
+Pt reports ongoing insomnia and frequent cramps, especially in the lower limbs. Also noted increased difficulty in swallowing both liquids and solids over the past few weeks. Occasional dizziness reported, no syncope. Family noticed speech changes, mainly hoarseness and some difficulty pronouncing words clearly. Motor coordination seems off, pt stumbles often, and gait appears ataxic. No noted paresthesia or numbness. Pt feels overwhelmed, expressing significant stress and anxiety about these symptoms. On examination, mild facial weakness observed, though pt denies any major sensory deficits. Current meds include Riluzole and Baclofen.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"insomnia","G47.0"
+"cramps, especially in the lower limbs","R25.2"
+"difficulty in swallowing both liquids and solids","R13.10"
+"dizziness","R42"
+"hoarseness","R49.0"
+"difficulty pronouncing words clearly","R47.81"
+"gait appears ataxic","R26.0"
+"facial weakness","R29.810"

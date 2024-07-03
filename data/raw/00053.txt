@@ -1,0 +1,14 @@
+### Clinical Note:
+The pt c/o severe shortness of breath and chest pain on breathing. Spells of dizziness and difficulty speaking were also noted. During the exam, facial weakness was evident. Pt also reports paresthesias and difficulty walking. Additionally, there's a hx of orthostatic hypotension and insomnia. Pt currently on gabapentin for neuropathic pain and uses a wheelchair for mobility assistance.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"chest pain on breathing","R07.1"
+"dizziness","R42"
+"difficulty speaking","R47.81"
+"facial weakness","R29.810"
+"paresthesias","R20.2"
+"difficulty walking","R26.0"
+"orthostatic hypotension","I95.1"
+"insomnia","G47.0"

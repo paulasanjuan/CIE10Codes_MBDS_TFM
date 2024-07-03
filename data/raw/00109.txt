@@ -1,0 +1,14 @@
+### Clinical Note:
+Pt presents with diff. breathing, feels like chest is tight and has shortness of breath (SOB). Reports frequent muscle spasms and occasional fasciculations, especially in legs. Difficulty speaking noted, speech is slurred and sometimes hard to understand. Pt also experiencing severe anxiety and depressive episodes. Urinary incontinence reported, needs assistance with mobility, often relies on wheelchair. Pt's spouse mentions episodes of dizziness and syncope.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath (SOB)","R06.0"
+"muscle spasms","R25.2"
+"fasciculations","R25.3"
+"Difficulty speaking","R47.8"
+"anxiety and depressive episodes","F41.9"
+"Urinary incontinence","R32"
+"needs assistance with mobility","Z74.0"
+"relies on wheelchair","Z99.3"
+"episodes of dizziness and syncope","R42"

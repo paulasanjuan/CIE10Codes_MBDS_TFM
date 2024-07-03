@@ -1,0 +1,12 @@
+### Clinical Note:
+The pt reports chronic muscle weakniss and bouts of dizziness. Experiencing problems with speech, often described as dysarthric. Increased episodes of shortness of breath, especially at night, leading to insomnia. Physical exam shows significant facial paralysis and paresthesias in the extremities. No new complaints of pain or abnormal reflexes. Continues to take medication for managing respiratory issues and anxiety.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakniss","M62.81"
+"dizziness","R42"
+"dysarthric","R47.1"
+"shortness of breath","R06.00"
+"insomnia","G47.0"
+"facial paralysis","G51.0"
+"paresthesias","R20.2"

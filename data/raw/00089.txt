@@ -1,0 +1,13 @@
+### Clinical Note:
+
+Pt. complains of muscle wkness, esp in the legs, and has trouble walking. Family reports increased moodiness and episodes of panic attacks. There is notable dysarthria affecting speech clarity, and pt. often needs help with daily activities due to reduced mobility. Complains of dyspnea on exertion. No recent hx of nystagmus or orthostatic hypotension. Some insomnia is also noted. Pt. takes medications for anxiety and depression.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle wkness, esp in the legs","M62.81"
+"trouble walking","R26.0"
+"episodes of panic attacks","F41.0"
+"dysarthria affecting speech clarity","R47.1"
+"dyspnea on exertion","R06.00"
+"reduced mobility","Z74.0"
+"insomnia","G47.0"

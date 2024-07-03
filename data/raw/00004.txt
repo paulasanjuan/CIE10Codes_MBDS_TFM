@@ -1,0 +1,13 @@
+### Clinical Note:
+Patient is experiencing persistent muscle weakness, notably in the arms and legs, and has reported shortness of breath during mild activities. Complains of frequent fasciculations and occasional dysphagia, especially with liquids. Has had episodes of dizziness and some paresthesia in the fingers. The patient has also noticed increased difficulty in speaking clearly and has been feeling unusually anxious about these symptoms. Family history includes hypertension and diabetes.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"shortness of breath","R06.0"
+"fasciculations","R25.3"
+"dysphagia, especially with liquids","R13.10"
+"dizziness","R42"
+"paresthesia in the fingers","R20.2"
+"difficulty in speaking clearly","R47.81"
+"feeling unusually anxious","F41.9"

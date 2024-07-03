@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt. arrived w/ complaints of muscle weakness, esp. in legs, and difficulty swallowing both solids and liquids. She also noted frequent dizziness and occasional bouts of chest pain. Upon examination, signs of facial weakness were apparent. Sleep disturbances are affecting her quality of life, likely insomnia. There was also mention of persistent numbness and tingling in her extremities. No hx of urinary or fecal incontinence reported. Current meds include Riluzole, with PT sessions scheduled to help manage symptoms.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"difficulty swallowing both solids and liquids","R13.10"
+"frequent dizziness","R42"
+"chest pain","R07.9"
+"facial weakness","R29.810"
+"insomnia","G47.0"
+"numbness and tingling in her extremities","R20.2"

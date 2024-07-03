@@ -1,0 +1,11 @@
+### Clinical Note:
+Pt presents with persistent shrt of breath and muscle wkness. Complains of chronic fatigue and cramps. Recently diagnosed with orthostatic hypotension. Reports difficulty in speaking and has noticed a slight tremor. No chest pain or syncope reported. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shrt of breath","R06.00"
+"muscle wkness","M62.81"
+"chronic fatigue","R53.82"
+"cramps","R25.2"
+"difficulty in speaking","R47.81"
+"orthostatic hypotension","I95.1"

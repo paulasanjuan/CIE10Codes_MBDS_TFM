@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt presents with chronic respiratory issues, noting difficulty in breathing esp at night. Complains of consistent muscle weakness, affecting daily activities. Reports significant dizziness, sometimes leading to syncope. Also experiencing orthostatic hypotension, particularly when standing up too quickly. Pt's speech has become slurred, noted dysarthria over the past month. No chest pain or palpitations reported. Patient's gait is unsteady, exhibiting signs of ataxia. Chronic fatigue is severely impacting their quality of life. Currently managed with BiPAP and symptomatic treatment.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"chronic respiratory issues, noting difficulty in breathing","J96.9"
+"muscle weakness","M62.81"
+"dizziness, sometimes leading to syncope","R42"
+"orthostatic hypotension","I95.1"
+"speech has become slurred, noted dysarthria","R47.1"
+"gait is unsteady, exhibiting signs of ataxia","R26.0"
+"chronic fatigue is severely impacting their quality of life","R53.82"

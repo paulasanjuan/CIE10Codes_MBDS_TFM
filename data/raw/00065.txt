@@ -1,0 +1,14 @@
+### Clinical Note:
+Patient arrived complaining of chronic shortness of breath and sporadic chest pain, particularly on breathing. Reports frequent dizziness and occasional numbness in extremities. The patient also mentioned episodes of insomnia and difficulty concentrating at work. No history of urinary incontinence, but experiences muscle weakness and occasional cramps. Patient denies depressive episodes or panic attacks but feels stressed due to ongoing symptoms. Uses a wheelchair for mobility assistance and is currently on medication for chronic respiratory failure.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"chest pain, particularly on breathing","R07.1"
+"dizziness","R42"
+"numbness in extremities","R20.0"
+"insomnia","G47.0"
+"muscle weakness","M62.81"
+"occasional cramps","R25.2"
+"wheelchair for mobility assistance","Z99.3"
+"chronic respiratory failure","J96.1"

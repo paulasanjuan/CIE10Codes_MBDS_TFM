@@ -1,0 +1,13 @@
+### Clinical Note:
+Pt. reports chronic weakness in lower extremities, making it hard to walk. Also complains of severe cramps, esp at night. Spouse has noticed slurred speech and diff swallowing liquids. Pt. has trouble w/ coordination, occasionally stumbling. Experiencing severe anxiety and frequent dizziness. Pt. also has a history of insomnia and orthostatic hypotension. Currently prescribed baclofen for muscle spasms and alprazolam for anxiety. Spouse mentions pt. has been under considerable stress lately due to progression of symptoms. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"weakness in lower extremities","M62.81"
+"severe cramps","R25.2"
+"slurred speech","R47.81"
+"diff swallowing liquids","R13.1"
+"trouble w/ coordination","R27.9"
+"frequent dizziness","R42"
+"insomnia","G47.0"
+"orthostatic hypotension","I95.1"

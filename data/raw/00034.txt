@@ -1,0 +1,16 @@
+### Clinical Note:
+
+Pt. c/o shortness of breath and persistent dizziness. Also noted is muscle weakness (generalized) and episodes of facial weakness. Reports increased difficulty with speech, often becoming hoarse, and difficulty swallowing solids and liquids. Occasionally experiences incontinence without sensory perception. Pt. mentioned anxiety issues but didn't elaborate much. Recently started using a wheelchair for mobility. Lab results show hyperbilirubinaemia, and pt. denies chest pain. Chronic fatigue continues to be a significant problem.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"persistent dizziness","R42"
+"muscle weakness (generalized)","M62.81"
+"episodes of facial weakness","R29.810"
+"difficulty with speech, often becoming hoarse","R49.0"
+"difficulty swallowing solids and liquids","R13.10"
+"incontinence without sensory perception","N39.42"
+"using a wheelchair for mobility","Z99.3"
+"hyperbilirubinaemia","R17"
+"chronic fatigue","R53.82"

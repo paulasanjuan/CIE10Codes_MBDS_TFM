@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt c/o chronic shortness of breath and noted muscle weakness over last 6 months. Reports diff with speech, sometimes sounds hoarse. Also having episodes of dizziness and occasional falls. Pt uses a wheelchair for mobility. No hx of anxiety or depression. Observed with generalized muscle fasciculations during exam. Meds include baclofen for spasms and a bipap machine for nighttime breathing support. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.00"
+"muscle weakness","M62.81"
+"diff with speech","R47.81"
+"hoarse","R49.0"
+"dizziness","R42"
+"muscle fasciculations","R25.3"
+"uses a wheelchair for mobility","Z99.3"

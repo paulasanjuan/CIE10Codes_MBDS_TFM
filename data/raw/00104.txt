@@ -1,0 +1,15 @@
+### Clinical Note:
+
+Pt. complains of chronic muscle weakness and persistent shortness of breath. Recently, pt. has been experiencing bouts of dizziness and has noted difficulty in speaking, leading to hoarseness. There have been episodes of cramps and spasms, and pt. reports involuntary twitching in the limbs. Additionally, pt. has difficulty maintaining balance, often stumbling while walking. Reports no incontinence issues. Pt. has also been feeling unusually fatigued and stressed lately.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle weakness","M62.81"
+"shortness of breath","R06.00"
+"dizziness","R42"
+"difficulty in speaking, hoarseness","R49.0"
+"cramps and spasms","R25.2"
+"involuntary twitching in the limbs","R25.3"
+"difficulty maintaining balance, stumbling while walking","R26.0"
+"unusually fatigued","R53.83"
+"stressed","R45.7"

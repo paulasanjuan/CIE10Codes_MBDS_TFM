@@ -1,0 +1,14 @@
+### Clinical Note:
+Patient comes in complaining of persistent shortness of breath and muscle weakness in the limbs. Also reports difficulty sleeping and occasional facial weakness. The patient has a history of panic attacks and recently experienced a severe episode. Speech has been slurred at times, making communication difficult. There have been episodes of dizziness and some issues with urinary incontinence. Pt also notes occasional paresthesias in the hands and feet. Currently, the patient is using a wheelchair for mobility. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"muscle weakness","M62.81"
+"facial weakness","R29.810"
+"panic attacks","F41.0"
+"speech has been slurred","R47.1"
+"dizziness","R42"
+"urinary incontinence","R32"
+"paresthesias in the hands and feet","R20.2"
+"using a wheelchair for mobility","Z99.3"

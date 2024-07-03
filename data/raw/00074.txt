@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt. reports experiencing diffulty with coordination and gait, frequently stumbling. There's also noted fasciculations in the limbs, and the pt. complains of persistent dysarthria. Sleep patterns are disrupted due to muscle cramps and spasms. No orthostatic hypotension observed, but pt. mentions frequent dizziness and episodes of shortness of breath. The pt. is currently using a wheelchair for mobility.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"diffulty with coordination and gait","R26.0"
+"fasciculations in the limbs","R25.3"
+"persistent dysarthria","R47.1"
+"muscle cramps and spasms","R25.2"
+"frequent dizziness","R42"
+"shortness of breath","R06.00"
+"using a wheelchair for mobility","Z99.3"

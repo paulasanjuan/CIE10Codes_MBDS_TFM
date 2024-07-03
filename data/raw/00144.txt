@@ -1,0 +1,15 @@
+### Clinical Note:
+Pt c/o muscle cramps and difficulty speaking over the past few weeks. Experiencing increased facial weakness and intermittent dysarthria. Sleep is disturbed due to persistent muscle spasms, and the pt often feels dizzy upon standing. Noted occasional urinary incontinence and episodes of orthostatic hypotension. Reports tingling sensations in the extremities. Emotional stress levels have risen, partly due to the ongoing symptoms.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"muscle cramps","R25.2"
+"difficulty speaking","R47.81"
+"facial weakness","R29.810"
+"dysarthria","R47.1"
+"muscle spasms","R25.2"
+"dizzy upon standing","R42"
+"urinary incontinence","R32"
+"orthostatic hypotension","I95.1"
+"tingling sensations","R20.2"
+"emotional stress","R45.7"

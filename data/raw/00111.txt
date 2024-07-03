@@ -1,0 +1,14 @@
+### Clinical Note:
+Patient reports recent increase in episodes of shortness of breath and chest pain on breathing, especially at night. Complains of muscle weakness and persistent fatigue that has worsened over the last several weeks. Additionally, the patient has been experiencing involuntary muscle twitching and cramps, making daily activities more difficult. Noted a significant decline in motor coordination, with frequent falls due to ataxic gait. Sleep disturbances are also reported, with difficulty staying asleep through the night. Currently on medication for chronic respiratory issues and anxiety.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"shortness of breath","R06.0"
+"chest pain on breathing","R07.1"
+"muscle weakness","M62.8"
+"persistent fatigue","R53.83"
+"involuntary muscle twitching","R25.3"
+"cramps","R25.2"
+"motor coordination...ataxic gait","R26.0"
+"sleep disturbances","G47.0"
+"chronic respiratory issues","J96.1"

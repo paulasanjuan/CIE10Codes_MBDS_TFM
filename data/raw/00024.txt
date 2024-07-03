@@ -1,0 +1,11 @@
+### Clinical Note:
+Pt. reports progressive muscle weakness, primarily in the lower limbs, over the past 6 months. Complains of cramping and spasms, especially at night, affecting sleep. Recently, he has been experiencing difficulty with speech, often stuttering and having trouble finding words. No issues with breathing reported. Has had episodes of dizziness and near-syncope. Also notes occasional urinary incontinence, which is embarassing and affecting his social life. His coordination seems off, often tripping and struggling with fine motor tasks. Continues on Baclofen for spasticity, but symptoms persist. Follow-up scheduled in 2 weeks.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"progressive muscle weakness, primarily in the lower limbs","M62.81"
+"cramping and spasms, especially at night","R25.2"
+"difficulty with speech, often stuttering and having trouble finding words","R47.81"
+"episodes of dizziness and near-syncope","R42"
+"occasional urinary incontinence","R32"
+"His coordination seems off, often tripping and struggling with fine motor tasks","R27.0"

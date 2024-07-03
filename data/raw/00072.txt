@@ -1,0 +1,13 @@
+### Clinical Note:
+Patient reports increased difficulty in breathing, especially at night, along with persistent shortness of breath (SOB). Also experiencing frequent fasciculations in the upper limbs and muscle weakness that seems to be getting worse. Noted issues with urinary incontinence that comes without warning. Complains of occasional dizziness and feeling light-headed upon standing. Patient's speech has become slurred, leading to difficulty in being understood. On examination, there's noticeable ataxic gait and general muscle weakness. 
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"difficulty in breathing, especially at night","R06.00"
+"shortness of breath (SOB)","R06.02"
+"frequent fasciculations in the upper limbs","R25.3"
+"muscle weakness","M62.81"
+"urinary incontinence that comes without warning","R32"
+"occasional dizziness and feeling light-headed upon standing","R42"
+"speech has become slurred, leading to difficulty in being understood","R47.81"
+"ataxic gait","R26.0"

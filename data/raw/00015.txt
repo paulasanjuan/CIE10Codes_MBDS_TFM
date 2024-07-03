@@ -1,0 +1,15 @@
+### Clinical Note:
+Pt complains of diffulty in breathing and has been experiencing dizziness. There's a noted history of orthostatic hypotension and chronic fatigue. Also, reports frequent muscle spasms and occasional fasciculation. Has been dealing with depressive episodes and anxiety as well. Recently, developed a speech disorder characterized by difficulty in speaking and occasional hoarseness. No recent infections or injuries. Currently on symptomatic treatment and regular follow-ups are advised.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"diffulty in breathing","R06.00"
+"dizziness","R42"
+"orthostatic hypotension","I95.1"
+"chronic fatigue","R53.82"
+"muscle spasms","R25.2"
+"fasciculation","R25.3"
+"depressive episodes","F32"
+"anxiety","F41.9"
+"difficulty in speaking","R47.81"
+"hoarseness","R49.0"

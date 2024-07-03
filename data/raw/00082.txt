@@ -1,0 +1,12 @@
+### Clinical Note:
+Pt c/o severe muscle weakness in both arms and legs, has trouble walking (unsteady gait). Fatigue has worsened over the past weeks, pt is also experiencing involuntary muscle spasms, especially at night. Has been using a wheelchair intermittently. Reports difficulty swallowing liquids, sometimes leading to choking. Mood has been low, and pt is showing signs of depression. Currently on meds for anxiety and sleep issues. Regular follow-up needed to manage symptoms.
+
+### ICD-10 Coding Table:
+"Text","ICD10"
+"severe muscle weakness in both arms and legs","M62.81"
+"unsteady gait","R26.0"
+"Fatigue has worsened","R53.83"
+"involuntary muscle spasms","R25.2"
+"using a wheelchair","Z99.3"
+"difficulty swallowing liquids","R13.1"
+"signs of depression","F32.A"
